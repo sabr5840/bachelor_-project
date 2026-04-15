@@ -2,31 +2,53 @@ async function sendMessage() {
     const input = document.getElementById("user-input");
     const chatBox = document.getElementById("chat-box");
 
-    const message = input.value;
+    const message = input.value.trim();
     if (!message) return;
 
-    // vis brugerens besked
-    chatBox.innerHTML += `<div class="message user">${message}</div>`;
-
+    appendMessage(message, "user");
     input.value = "";
 
-    // loading
-    chatBox.innerHTML += `<div class="message bot">AI tænker...eller backend slukket</div>`;
+    const loadingElement = appendMessage("AI tænker...", "bot");
 
-    // kald backend
-    const response = await fetch("http://127.0.0.1:8000/chat", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ message })
-    });
+    try {
+        const response = await fetch("http://127.0.0.1:8000/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ message })
+        });
 
-    const data = await response.json();
+        if (!response.ok) {
+            throw new Error("Backend returnerede en fejl");
+        }
 
-    // fjern loading (hacky men fint til nu)
-    chatBox.innerHTML = chatBox.innerHTML.replace("AI tænker...eller backend slukket", "");
+        const data = await response.json();
 
-    // vis svar
-    chatBox.innerHTML += `<div class="message bot">${data.reply}</div>`;
+        loadingElement.remove();
+        appendMessage(data.reply, "bot");
+    } catch (error) {
+        loadingElement.remove();
+        appendMessage("Der opstod en fejl ved kontakt til backend eller AI.", "bot");
+        console.error(error);
+    }
 }
+
+function appendMessage(text, sender) {
+    const chatBox = document.getElementById("chat-box");
+    const messageDiv = document.createElement("div");
+
+    messageDiv.classList.add("message", sender);
+    messageDiv.textContent = text;
+
+    chatBox.appendChild(messageDiv);
+    chatBox.scrollTop = chatBox.scrollHeight;
+
+    return messageDiv;
+}
+
+document.getElementById("user-input").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        sendMessage();
+    }
+});

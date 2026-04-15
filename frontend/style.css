@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    border-color: black;
+    margin: 0;
 }
 
 .chat-container {
@@ -16,27 +16,44 @@ body {
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    border: 0.5px solid black;
+    border: 1px solid black;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.chat-header {
+    padding: 14px;
+    background: #005aa3;
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
 
 .chat-box {
     flex: 1;
     padding: 10px;
     overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
 .message {
-    margin: 5px 0;
+    max-width: 80%;
+    padding: 10px 12px;
+    border-radius: 12px;
+    word-wrap: break-word;
 }
 
 .user {
-    text-align: right;
-    color: #000000;
+    align-self: flex-end;
+    background-color: #dceeff;
+    color: #000;
 }
 
 .bot {
-    text-align: left;
-    color: green;
+    align-self: flex-start;
+    background-color: #edf7ed;
+    color: #1f5f1f;
 }
 
 .input-area {
@@ -46,13 +63,20 @@ body {
 
 input {
     flex: 1;
-    padding: 10px;
+    padding: 12px;
     border: none;
+    outline: none;
+    font-size: 14px;
 }
 
 button {
-    padding: 10px;
+    padding: 12px 16px;
     background: #005aa3;
     color: white;
     border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #00457d;
 }

@@ -1,21 +1,101 @@
 <!DOCTYPE html>
 <html lang="da">
 <head>
-    <meta charset="UTF-8" />
-    <title>Pensam AI Chat</title>
-    <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PenSam layout</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <div class="page">
 
-<div class="chat-container">
-    <div id="chat-box" class="chat-box"></div>
+    <header class="topbar">
+      <div class="topbar-left">
+        <a href="#" class="logo-link">
+          <img src="Billeder/Pensam_logo.png" alt="PenSam logo" class="logo-img" />
+        </a>
 
-    <div class="input-area">
-        <input id="user-input" type="text" placeholder="Skriv dit spørgsmål..." />
-        <button onclick="sendMessage()">Send</button>
+        <nav class="nav">
+          <a href="#">Hovedmenu</a>
+          <a href="#">Sikker upload</a>
+          <a href="#">Om PenSam</a>
+          <a href="#">English</a>
+          <a href="#">Nyhedsbrev</a>
+        </nav>
+      </div>
+
+      <div class="topbar-right">
+        <button class="search-btn" aria-label="Søg">⌕</button>
+        <button class="login-btn">Log på</button>
+      </div>
+    </header>
+
+    <section class="category-row">
+      <div class="category-card active">
+        <span>Pension</span>
+        <div class="circle-arrow">→</div>
+      </div>
+
+      <div class="category-card">
+        <span>Sundhed</span>
+        <div class="circle-arrow">→</div>
+      </div>
+
+      <div class="category-card">
+        <span>Forsikring</span>
+        <div class="circle-arrow">→</div>
+      </div>
+    </section>
+
+    <section class="hero-section">
+      <div class="hero-image">
+        <img src="Billeder/Forside_nyhedspost.png" alt="Nyhedsbillede" />
+      </div>
+
+      <div class="hero-card">
+        <div>
+          <h1>Webinar: Sundhed uden forbud og strikse kure</h1>
+          <p>
+            Hør Michelle Kristensens bud på, hvordan du gør sundhed enkel - og få
+            praktiske råd til at indføre sundere vaner, der passer ind i hverdagen.
+            Webinaret afholdes d. 14. april kl. 18.30 - 19.30.
+          </p>
+        </div>
+
+        <a href="#" class="cta-btn">Tilmeld dig webinaret →</a>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Chat ikon -->
+  <button id="chat-toggle" class="chat-toggle" aria-label="Åbn chat">
+    <img src="Billeder/rådgiver_ikon.png" alt="AI rådgiver ikon" />
+  </button>
+
+  <!-- Chat vindue -->
+  <div id="chat-widget" class="chat-widget">
+    <div class="chat-header">
+      <span>AI-rådgiver</span>
+      <button id="chat-close" class="chat-close" aria-label="Luk chat">×</button>
     </div>
-</div>
 
-<script src="script.js"></script>
+    <div id="chat-box" class="chat-box">
+      <div class="message bot">
+        Hej! Jeg kan hjælpe med generelle spørgsmål om pension.
+      </div>
+    </div>
+
+    <div class="chat-input-area">
+      <input
+        type="text"
+        id="user-input"
+        placeholder="Spørg om hvad som helst om pension"
+      />
+      <button type="button" onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

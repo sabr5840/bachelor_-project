@@ -25,7 +25,7 @@ async function sendMessage() {
   appendMessage(message, "user");
   input.value = "";
 
-  const loadingElement = appendMessage("AI tænker...", "bot");
+  const loadingElement = appendMessage("Genererer svar...", "bot");
 
   try {
     const response = await fetch("http://127.0.0.1:8000/chat", {

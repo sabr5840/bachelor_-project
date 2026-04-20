@@ -1,5 +1,4 @@
 import os
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -12,7 +11,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # kun fint i udvikling
+    allow_origins=["*"],  # fint i udvikling
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -31,6 +30,84 @@ class Message(BaseModel):
     message: str
 
 
+def classify_question(user_text: str) -> str:
+    text = user_text.lower()
+
+    # 1. SEMI først (vigtig!)
+    if any(x in text for x in [
+        "skat",
+        "samle",
+        "udbetaling",
+        "begunstiget",
+    ]):
+        return "semi"
+
+    # 2. COMPLEX bagefter
+    if any(x in text for x in [
+        "bør jeg",
+        "skal jeg",
+        "hvad er bedst",
+        "hvad passer bedst",
+        "for mig",
+        "min situation",
+        "min opsparing er",
+        "mit afkast",
+        "hvad vil du anbefale",
+        "hvornår kan jeg gå på pension",
+    ]):
+        return "complex"
+
+    return "simple"
+
+def build_prompt(user_text: str, question_type: str) -> str:
+    extra_instruction = ""
+
+    if question_type == "semi":
+        extra_instruction = """
+Spørgsmålet ligger i en gråzone.
+Du skal derfor:
+- give et generelt og informativt svar
+- tage et tydeligt forbehold
+- forklare, at den konkrete vurdering afhænger af brugerens egen ordning eller situation
+- ikke afvise spørgsmålet direkte
+"""
+    elif question_type == "simple":
+        extra_instruction = """
+Spørgsmålet er et first-level spørgsmål.
+Du skal give et kort, klart og direkte svar.
+"""
+
+    return f"""
+Du er en AI-assistent i et bachelorprojekt om pensionsrådgivning.
+
+Du håndterer kun first-level spørgsmål, dvs. generelle og standardiserede spørgsmål om pension.
+
+Regler:
+- Svar altid på dansk
+- Svar kort, klart og i et letforståeligt sprog
+- Forklar kun generelle pensionsbegreber, regler og processer
+- Giv ikke personlig økonomisk, juridisk eller skattemæssig rådgivning
+- Hvis spørgsmålet er uklart, så stil ét kort opklarende spørgsmål
+- Hvis spørgsmålet handler om brugerens konkrete situation, så sig tydeligt, at det kræver individuel vurdering
+- Hvis spørgsmålet ligger i gråzonen, så giv et generelt svar med et tydeligt forbehold
+- Opfind ikke fakta eller regler, du ikke er sikker på
+- Undgå unødvendige introer som "Her er en kort forklaring", medmindre det giver mening
+
+Ekstra instruktion:
+{extra_instruction}
+
+Brugerens spørgsmål:
+{user_text}
+"""
+
+
+def get_fallback_reply() -> str:
+    return (
+        "Det spørgsmål kræver en vurdering af din konkrete situation. "
+        "Jeg kan desværre ikke give personlig rådgivning, men jeg kan godt forklare de generelle regler, hvis du ønsker det."
+    )
+
+
 @app.get("/")
 def root():
     return {"status": "Backend kører"}
@@ -46,16 +123,17 @@ def chat(msg: Message):
     try:
         print("User text:", user_text)
 
+        question_type = classify_question(user_text)
+        print("Question type:", question_type)
+
+        if question_type == "complex":
+            return {"reply": get_fallback_reply()}
+
+        prompt = build_prompt(user_text, question_type)
+
         response = client.models.generate_content(
             model="gemini-2.5-flash",
-            #TODO - system prompt ind skal tilrettes efter behøv, for nu er den generel og ikke specifik for pensionsrådgivning eller andet data
-            contents=(
-                "Du er en AI-assistent i et bachelorprojekt om pensionsrådgivning. "
-                "Du skal svare kort, klart og på dansk. "
-                "Du må gerne forklare generelle pensionsbegreber, men du må ikke udgive dig for at være en menneskelig rådgiver. "
-                "Hvis spørgsmålet kræver personlig økonomisk vurdering, skal du tage forbehold.\n\n"
-                f"Brugerens spørgsmål: {user_text}"
-            )
+            contents=prompt
         )
 
         reply = response.text if response.text else "Jeg kunne ikke generere et svar."

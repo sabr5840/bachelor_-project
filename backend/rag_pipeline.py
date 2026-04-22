@@ -179,27 +179,25 @@ def cosine_similarity(vec_a: List[float], vec_b: List[float]) -> float:
     return dot_product / (norm_a * norm_b)
 
 
-def retrieve_top_chunks(query: str, top_k: int = 3) -> List[Dict[str, Any]]:
-    """
-    Embeds the user query and retrieves the top-k most relevant chunks.
-    """
+def retrieve_top_chunks(query: str, top_k: int = 3, min_score: float = 0.75) -> List[Dict[str, Any]]:
     embedded_chunks = load_json(EMBEDDINGS_FILE)
     query_embedding = embed_text(query, task_type="RETRIEVAL_QUERY")
 
     scored = []
     for chunk in embedded_chunks:
         score = cosine_similarity(query_embedding, chunk["embedding"])
-        scored.append(
-            {
-                "score": score,
-                "chunk": chunk,
-            }
-        )
+
+        if score >= min_score:
+            scored.append(
+                {
+                    "score": score,
+                    "chunk": chunk,
+                }
+            )
 
     scored.sort(key=lambda x: x["score"], reverse=True)
     top_chunks = [item["chunk"] for item in scored[:top_k]]
     return top_chunks
-
 
 def build_context(top_chunks: List[Dict[str, Any]]) -> str:
     """

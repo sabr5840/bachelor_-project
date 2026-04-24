@@ -1,0 +1,19 @@
+Testliste (10 spørgsmål)
+
+SIMPLE
+Hvad er en ratepension?
+Hvad er forskellen på ratepension og livrente?
+Hvad er pensionsafkastskat?
+
+SEMI
+Hvordan beskattes pension?
+Kan jeg samle mine pensioner?
+Hvordan ændrer jeg begunstigelse?
+
+COMPLEX
+Bør jeg skifte pensionselskab?
+Hvad er bedst for mig?
+Hvornår kan jeg gå på pension?
+OUT OF SCOPE
+Hvad er den bedste investering i 2026?
+Hvor gammel bliver en hest?

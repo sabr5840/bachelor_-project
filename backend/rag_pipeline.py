@@ -41,7 +41,7 @@ def read_source_documents() -> List[Dict[str, Any]]:
 
         documents.append(
             {
-                "document_id": file_path.stem,
+                "document_id": str(file_path.relative_to(SOURCE_DIR)).replace("/", "_").replace(".txt", ""),
                 "title": file_path.stem.replace("_", " ").title(),
                 "source_folder": str(file_path.parent.relative_to(SOURCE_DIR)),
                 "filename": file_path.name,
@@ -113,18 +113,58 @@ def load_json(path: Path) -> Any:
 
 def build_chunks_file() -> None:
     """
-    Reads raw txt files and saves chunked output to chunks.json
+    Reads source documents and only regenerates chunks for new or changed files.
+    Existing chunks are reused if the source text has not changed.
     """
     documents = read_source_documents()
-    chunks = create_chunks(documents)
-    save_json(CHUNKS_FILE, chunks)
+
+    existing_chunks = []
+    if CHUNKS_FILE.exists():
+        existing_chunks = load_json(CHUNKS_FILE)
+
+    existing_by_document_id = {}
+    for chunk in existing_chunks:
+        document_id = chunk["document_id"]
+        existing_by_document_id.setdefault(document_id, []).append(chunk)
+
+    updated_chunks = []
+
+    for doc in documents:
+        document_id = doc["document_id"]
+        existing_doc_chunks = existing_by_document_id.get(document_id, [])
+
+        existing_full_text = (
+            existing_doc_chunks[0].get("document_text")
+            if existing_doc_chunks
+            else None
+        )
+
+        if existing_full_text == doc["text"]:
+            print(f"Reusing unchanged chunks: {document_id}")
+            updated_chunks.extend(existing_doc_chunks)
+            continue
+
+        print(f"Creating chunks for new or changed document: {document_id}")
+
+        chunk_texts = chunk_text(doc["text"], chunk_size_words=120, overlap_words=20)
+
+        for i, text in enumerate(chunk_texts, start=1):
+            updated_chunks.append(
+                {
+                    "chunk_id": f"{doc['document_id']}_chunk_{i}",
+                    "document_id": doc["document_id"],
+                    "document_title": doc["title"],
+                    "source_folder": doc["source_folder"],
+                    "filename": doc["filename"],
+                    "text": text,
+                    "document_text": doc["text"],
+                }
+            )
+
+    save_json(CHUNKS_FILE, updated_chunks)
 
     print(f"Loaded {len(documents)} documents")
-    print(f"Created {len(chunks)} chunks")
-    if chunks:
-        print("Example chunk:")
-        print(chunks[0]["chunk_id"])
-        print(chunks[0]["text"][:300])
+    print(f"Saved {len(updated_chunks)} chunks")
 
 
 def embed_text(text: str, task_type: str) -> List[float]:
@@ -144,24 +184,43 @@ def embed_text(text: str, task_type: str) -> List[float]:
 
 def build_embeddings_file() -> None:
     """
-    Loads chunks.json, embeds each chunk, and saves chunk_embeddings.json
+    Loads chunks.json and reuses embeddings only if the chunk text is unchanged.
+    New or changed chunks are embedded again.
     """
     chunks = load_json(CHUNKS_FILE)
-    embedded_chunks = []
+
+    existing_embedded_chunks = []
+    if EMBEDDINGS_FILE.exists():
+        existing_embedded_chunks = load_json(EMBEDDINGS_FILE)
+
+    existing_by_id = {
+        chunk["chunk_id"]: chunk
+        for chunk in existing_embedded_chunks
+    }
+
+    updated_embedded_chunks = []
 
     for idx, chunk in enumerate(chunks, start=1):
-        print(f"Embedding chunk {idx}/{len(chunks)}: {chunk['chunk_id']}")
+        chunk_id = chunk["chunk_id"]
+        existing_chunk = existing_by_id.get(chunk_id)
+
+        if existing_chunk and existing_chunk.get("text") == chunk["text"]:
+            print(f"Skipping unchanged chunk {idx}/{len(chunks)}: {chunk_id}")
+            updated_embedded_chunks.append(existing_chunk)
+            continue
+
+        print(f"Embedding new or changed chunk {idx}/{len(chunks)}: {chunk_id}")
 
         embedding = embed_text(chunk["text"], task_type="RETRIEVAL_DOCUMENT")
 
-        embedded_chunks.append(
+        updated_embedded_chunks.append(
             {
                 **chunk,
                 "embedding": embedding,
             }
         )
 
-    save_json(EMBEDDINGS_FILE, embedded_chunks)
+    save_json(EMBEDDINGS_FILE, updated_embedded_chunks)
     print(f"Saved embeddings to {EMBEDDINGS_FILE}")
 
 
@@ -198,6 +257,7 @@ def retrieve_top_chunks(query: str, top_k: int = 3, min_score: float = 0.55) -> 
     scored.sort(key=lambda x: x["score"], reverse=True)
     top_chunks = [item["chunk"] for item in scored[:top_k]]
     return top_chunks
+
 
 def build_context(top_chunks: List[Dict[str, Any]]) -> str:
     """

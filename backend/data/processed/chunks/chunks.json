@@ -2,7 +2,7 @@
   {
     "chunk_id": "konkurs_chunk_1",
     "document_id": "konkurs",
-    "title": "Konkurs",
+    "document_title": "Konkurs",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "konkurs.txt",
     "text": "Konkurs: Formål: - Sælge skyldners aktiver - Fordele pengene ligeligt mellem kreditorer Betingelser: - Insolvens (kan ikke betale regninger) - Kreditor har krav - Interesse i konkurs Vigtige begreber: Fristdag: - Når konkurs begæres Dekretdag: - Når konkurs starter - Skyldner mister kontrol Prioritet: - Først: kurator, lønkrav - Dernæst: simple kreditorer Panthavere: - Har sikkerhed (separatister) Urådighed: - Skyldner må ikke disponere over aktiver Konsekvens: - Virksomhed lukker - Personlig gæld kan bestå"
@@ -10,7 +10,7 @@
   {
     "chunk_id": "virksomhedstyper_chunk_1",
     "document_id": "virksomhedstyper",
-    "title": "Virksomhedstyper",
+    "document_title": "Virksomhedstyper",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "virksomhedstyper.txt",
     "text": "Virksomhedstyper: Personlig virksomhed: - Enkeltmandsvirksomhed - Ubegrænset hæftelse Interessentskab (I/S): - Flere ejere - Solidarisk hæftelse ApS: - Begrænset hæftelse - Krav om kapital A/S: - Stor kapital - Begrænset hæftelse K/S: - Blandet hæftelse Begreber: - Solidarisk hæftelse = hæfter for hele gælden - Begrænset hæftelse = kun indskud Valg afhænger af: - Risiko - Kapital - størrelse"
@@ -18,7 +18,7 @@
   {
     "chunk_id": "fordringer_chunk_1",
     "document_id": "fordringer",
-    "title": "Fordringer",
+    "document_title": "Fordringer",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "fordringer.txt",
     "text": "Fordringer: Definition: - Et krav på penge (fx gæld) Kan: - Sælges - Pantsættes Indsigelser: - Afhænger af typen Typer: - Simpel → alle indsigelser bevares - Omsætningsbeskyttet → svage indsigelser bortfalder Stærke indsigelser: - Kan altid bruges (fx svig) Betaling: - Skal ske til den med legitimation Vigtigt: - Kreditor garanterer for kravet findes - Ikke for betalingsevne"
@@ -26,7 +26,7 @@
   {
     "chunk_id": "beskatning_af_pension_chunk_1",
     "document_id": "beskatning_af_pension",
-    "title": "Beskatning Af Pension",
+    "document_title": "Beskatning Af Pension",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "beskatning_af_pension.txt",
     "text": "Kilder: - https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast Pension beskattes forskelligt afhængigt af typen af pensionsordning. Udbetalinger fra ratepension og livrente beskattes som personlig indkomst. Det betyder, at beløbet indgår i den samlede indkomst og beskattes efter gældende skattesatser. Aldersopsparing beskattes ikke ved udbetaling, men til gengæld er der som udgangspunkt ikke fradrag for indbetalinger. Beskatningen sker typisk automatisk via udbetalingen, hvor skat bliver trukket før beløbet udbetales til kunden. Beskatning af pension skal ses i sammenhæng med øvrig indkomst, da det kan påvirke både skatteprocent og eventuelle tillæg til folkepension. Ved rådgivning bør det understreges, at den konkrete beskatning afhænger af kundens samlede økonomi og pensionsordning."
@@ -34,7 +34,7 @@
   {
     "chunk_id": "pension_scenarier_chunk_1",
     "document_id": "pension_scenarier",
-    "title": "Pension Scenarier",
+    "document_title": "Pension Scenarier",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_scenarier.txt",
     "text": "Eksempel 1: Person med kronisk sygdom → førtidspension Eksempel 2: Person med fysisk hårdt arbejde i 30+ år → seniorpension Eksempel 3: Person med 44 års arbejde → tidlig pension Eksempel 4: Person med god opsparing → kan supplere offentlig pension Eksempel 5: Person arbejder stadig → kan kombinere arbejde og pension"
@@ -42,7 +42,7 @@
   {
     "chunk_id": "pension_modregning_chunk_1",
     "document_id": "pension_modregning",
-    "title": "Pension Modregning",
+    "document_title": "Pension Modregning",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_modregning.txt",
     "text": "Modregning: Andre indtægter kan påvirke pension: - Pension fra arbejde - Opsparing - Indkomst Bundfradrag: - Fx 100.000 kr før modregning Konsekvens: - Høj indkomst → lavere offentlig pension Vigtigt: - Samlet økonomi afgør udbetaling"
@@ -50,7 +50,7 @@
   {
     "chunk_id": "pension_regler_chunk_1",
     "document_id": "pension_regler",
-    "title": "Pension Regler",
+    "document_title": "Pension Regler",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_regler.txt",
     "text": "Førtidspension: - Gives ved varigt nedsat arbejdsevne - Kræver vurdering fra kommunen Seniorpension: - Arbejdsevne ≤ 15 timer/uge - 20-25 års tilknytning til arbejdsmarkedet - Max 6 år til folkepension Tidlig pension: - Kan gives op til 3 år før folkepension - Kræver mange år på arbejdsmarkedet Generelt: - Man skal ofte stoppe med at arbejde for at få fuld pension - Regler afhænger af individuel situation"
@@ -58,7 +58,7 @@
   {
     "chunk_id": "pension_investering_chunk_1",
     "document_id": "pension_investering",
-    "title": "Pension Investering",
+    "document_title": "Pension Investering",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_investering.txt",
     "text": "Pension og investering: Høj risiko: - Potentielt højere afkast - Større udsving Lav risiko: - Stabilt afkast - Lavere vækst Aktiv vs passiv: - Aktiv = forvalter styrer investeringer - Passiv = følger indeks ÅOP: - Årlige omkostninger - Lavere ÅOP = bedre langsigtet afkast Tidshorisont: - Lang → højere risiko muligt - Kort → lavere risiko anbefales"
@@ -66,7 +66,7 @@
   {
     "chunk_id": "pension_sammenligning_chunk_1",
     "document_id": "pension_sammenligning",
-    "title": "Pension Sammenligning",
+    "document_title": "Pension Sammenligning",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_sammenligning.txt",
     "text": "Førtidspension: - Helbredsbetinget - Kræver godkendelse - Varig løsning Seniorpension: - Delvist arbejdsevne - Tæt på pensionsalder Tidlig pension: - Baseret på antal år arbejdet - Ingen helbredsvurdering Forskelle: - Førtid = sygdom - Senior = nedsat arbejdsevne - Tidlig = anciennitet"
@@ -74,7 +74,7 @@
   {
     "chunk_id": "folkepensionsalder_chunk_1",
     "document_id": "folkepensionsalder",
-    "title": "Folkepensionsalder",
+    "document_title": "Folkepensionsalder",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "folkepensionsalder.txt",
     "text": "Kilder: - https://star.dk/ydelser/pension-og-efterloen/folkepension-tidlig-pension-foertidspension-og-seniorpension/folkepension/folkepensionsalderen-nu-og-fremover Folkepensionsalderen i Danmark afhænger af fødselsår og kan ændre sig over tid. For mange borgere ligger pensionsalderen i dag mellem 67 og 69 år, men den reguleres løbende i takt med den forventede levetid. Det er derfor vigtigt at undersøge den konkrete pensionsalder ud fra fødselsdato. Folkepensionsalderen har betydning for, hvornår offentlige ydelser og pensionsudbetalinger kan begynde. Ved rådgivning bør det sikres, at kunden er opmærksom på sin specifikke pensionsalder."
@@ -82,7 +82,7 @@
   {
     "chunk_id": "gældsbreve_chunk_1",
     "document_id": "gældsbreve",
-    "title": "Gældsbreve",
+    "document_title": "Gældsbreve",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "gældsbreve.txt",
     "text": "Gældsbreve: Typer: - Simpelt gældsbrev: Skyldner bevarer alle indsigelser mod ny kreditor - Omsætningsgældsbrev: Skyldner mister svage indsigelser Bevarer stærke (fx tvang, svig) - Fakturakrav: Behandles som simpelt gældsbrev Pant: - Kreditor kan tage pant i skyldners ejendele - Ved manglende betaling → tvangsauktion Vigtigt: - Omsætningsgældsbreve er mere værd ved salg - Simpelt gældsbrev beskytter skyldner mest Kreditorskift: - Gæld kan sælges videre til ny kreditor - Skyldners rettigheder afhænger af typen"
@@ -90,7 +90,7 @@
   {
     "chunk_id": "pensionsafkastskat_chunk_1",
     "document_id": "pensionsafkastskat",
-    "title": "Pensionsafkastskat",
+    "document_title": "Pensionsafkastskat",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pensionsafkastskat.txt",
     "text": "Kilder: - https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast - https://www.retsinformation.dk/eli/lta/2014/1126 Pensionsafkastskat (PAL-skat) er en skat på afkastet af pensionsopsparing. Det betyder, at renter, udbytter og kursgevinster på pensionsmidler beskattes løbende. Afkast på pensionsordninger beskattes med en fast sats på 15,3 %. PAL-skat beregnes hvert år af det samlede afkast på pensionsopsparingen, uanset om afkastet er realiseret eller ej. Skatten håndteres som udgangspunkt automatisk af pensionsselskabet eller banken, som både beregner, indberetter og betaler skatten for kunden. Hvis pensionsopsparingen har haft et negativt afkast, kan dette modregnes i fremtidige positive afkast, før der igen beregnes PAL-skat. PAL-skat adskiller sig fra beskatning ved udbetaling, da den opkræves løbende under opsparingen og ikke først ved udbetaling af pensionen. Reglerne er fastsat i pensionsafkastbeskatningsloven, og der kan gælde særlige"
@@ -98,7 +98,7 @@
   {
     "chunk_id": "pensionsafkastskat_chunk_2",
     "document_id": "pensionsafkastskat",
-    "title": "Pensionsafkastskat",
+    "document_title": "Pensionsafkastskat",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pensionsafkastskat.txt",
     "text": "løbende under opsparingen og ikke først ved udbetaling af pensionen. Reglerne er fastsat i pensionsafkastbeskatningsloven, og der kan gælde særlige undtagelser afhængigt af pensionsordningstype og skatteforhold. Ved rådgivning bør det understreges, at konkrete forhold kan variere, og at gældende lovgivning altid bør konsulteres ved tvivl."
@@ -106,7 +106,7 @@
   {
     "chunk_id": "ovgivning_rådgivning_chunk_1",
     "document_id": "ovgivning_rådgivning",
-    "title": "Ovgivning Rådgivning",
+    "document_title": "Ovgivning Rådgivning",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "ovgivning_rådgivning.txt",
     "text": "Rådgivning og lovgivning: Typer af rådgivere: - Rådgiver (kan have egen interesse) - Uvildig rådgiver (kun kundens interesse) Eksempel: - Ejendomsmægler → repræsenterer sælger Regler: - Må ikke repræsentere begge parter - Skal give relevante oplysninger God skik: - Rådgivning skal være korrekt og fyldestgørende Vigtigt: - Kunden skal kunne træffe beslutning på oplyst grundlag"
@@ -114,7 +114,7 @@
   {
     "chunk_id": "pension_økonomi_chunk_1",
     "document_id": "pension_økonomi",
-    "title": "Pension Økonomi",
+    "document_title": "Pension Økonomi",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_økonomi.txt",
     "text": "Økonomi og pension: Indkomst: - Påvirker hvor meget du kan spare op Udgifter: - Bestemmer behov for pension Gæld: - Kan reducere økonomisk fleksibilitet Opsparing: - Supplerer offentlig pension ÅOP: - Vigtigt ved valg af pensionsprodukt Tommelregel: - Stabil økonomi → flere muligheder - Presset økonomi → fokus på sikkerhed"
@@ -122,7 +122,7 @@
   {
     "chunk_id": "aldersopsparing_regler_chunk_1",
     "document_id": "aldersopsparing_regler",
-    "title": "Aldersopsparing Regler",
+    "document_title": "Aldersopsparing Regler",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "aldersopsparing_regler.txt",
     "text": "Kilder: - https://skat.dk/borger/pension-og-efterloen/aldersopsparing-og-aldersforsikring Aldersopsparing er en pensionsordning, hvor indbetalinger ikke giver fradrag i skat. Til gengæld er udbetalinger fra aldersopsparing skattefri, hvilket adskiller den fra ratepension og livrente. Der er loft over, hvor meget der kan indbetales årligt på en aldersopsparing. Loftet afhænger blandt andet af alder. Aldersopsparing kan udbetales, når pensionsudbetalingsalderen nås, og den kan i nogle tilfælde udbetales som et engangsbeløb. Ordningen kan være relevant for personer, der ønsker fleksibilitet og skattefri udbetaling senere i livet. Ved rådgivning bør det vurderes, hvordan aldersopsparing indgår i den samlede pensionsstrategi."
@@ -130,7 +130,7 @@
   {
     "chunk_id": "salg_og_rågivning_chunk_1",
     "document_id": "salg_og_rågivning",
-    "title": "Salg Og Rågivning",
+    "document_title": "Salg Og Rågivning",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "salg_og_rågivning.txt",
     "text": "Rådgivning i salg: Salgsfaser: - Forberedelse - Behovsafdækning - Præsentation - Afslutning EFU-modellen: - Egenskab - Fordel - Udbytte Vigtigt: - Udbytte sælger – ikke egenskaber Eksempel: - Ikke: \"Produktet er hurtigt\" - Men: \"Du sparer tid\" Bevis: - Cases - Tests - Demonstration Mål: - Kunden skal forstå og se værdi"
@@ -138,7 +138,7 @@
   {
     "chunk_id": "pension_valg_guide_chunk_1",
     "document_id": "pension_valg_guide",
-    "title": "Pension Valg Guide",
+    "document_title": "Pension Valg Guide",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_valg_guide.txt",
     "text": "Valg af pension afhænger af: Helbred: - Dårligt helbred → førtidspension eller seniorpension Alder: - Tæt på pensionsalder → tidlig pension eller seniorpension Arbejdshistorik: - Mange år → tidlig pension - Kortere → andre ordninger Økonomi: - Lav opsparing → offentlig pension vigtig - Høj opsparing → mere fleksibilitet Arbejdsevne: - Kan arbejde delvist → seniorpension - Kan ikke arbejde → førtidspension Tommelregel: - Tidlig pension = mange år arbejdet - Seniorpension = fysisk/psykisk nedslidning - Førtidspension = varigt ude af stand til arbejde"
@@ -146,7 +146,7 @@
   {
     "chunk_id": "rådgiveransvar_chunk_1",
     "document_id": "rådgiveransvar",
-    "title": "Rådgiveransvar",
+    "document_title": "Rådgiveransvar",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "rådgiveransvar.txt",
     "text": "Rådgiveransvar: Grundlag: - Vurderes efter erstatningsregler Ansvar: - Bestræbelsesansvar (ikke garanti for resultat) Krav: - Skal handle som \"god professionel\" 4 betingelser for erstatning: - Ansvarsgrundlag - Tab - Årsagssammenhæng - Påregnelighed Vigtigt: - Kunden har bevisbyrden God skik: - Overtrædelse kan føre til ansvar Kend din kunde: - Rådgivning skal tilpasses kunden"
@@ -154,7 +154,7 @@
   {
     "chunk_id": "pension_basis_chunk_1",
     "document_id": "pension_basis",
-    "title": "Pension Basis",
+    "document_title": "Pension Basis",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_basis.txt",
     "text": "Hvad er pension: Pension er en opsparing, der udbetales, når du stopper med at arbejde. Typer af pension: - Folkepension (offentlig) - Arbejdsmarkedspension (fx PenSam) - Privat pension Formål: At sikre indkomst efter arbejdslivet. Supplerende: - Tidlig pension (Arne-pension) - Seniorpension - Førtidspension"
@@ -162,7 +162,7 @@
   {
     "chunk_id": "virksomhedsanalyse_chunk_1",
     "document_id": "virksomhedsanalyse",
-    "title": "Virksomhedsanalyse",
+    "document_title": "Virksomhedsanalyse",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "virksomhedsanalyse.txt",
     "text": "Virksomhedsanalyse: Typer: - Produktionsvirksomhed - Handelsvirksomhed - Servicevirksomhed Distributionskæde: - Producent → Engros → Detail → Forbruger SWOT-analyse: Interne: - Styrker - Svagheder Eksterne: - Muligheder - Trusler Vigtigt: - Muligheder = noget virksomheden ikke selv styrer Mål: - Skal være konkrete og målbare Eksempel: - Ikke: \"bedre service\" - Men: \"reducere ventetid med 20%\""
@@ -170,7 +170,7 @@
   {
     "chunk_id": "folkepension_chunk_1",
     "document_id": "folkepension",
-    "title": "Folkepension",
+    "document_title": "Folkepension",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "folkepension.txt",
     "text": "Kilder: - https://www.borger.dk/pension-og-efterloen/Folkepension-oversigt Folkepension er en offentlig pension, som udbetales til borgere, når de når folkepensionsalderen. Folkepension består typisk af et grundbeløb og et pensionstillæg. Pensionstillægget afhænger af indkomst og kan reduceres, hvis man har anden indkomst. Størrelsen af folkepensionen afhænger blandt andet af, hvor længe man har boet i Danmark. Folkepension skal ses i sammenhæng med andre pensionsordninger, da samlet indkomst kan påvirke udbetalingen. Ved rådgivning bør det understreges, at individuelle forhold kan have stor betydning for den endelige pension."
@@ -178,7 +178,7 @@
   {
     "chunk_id": "pension_begreber_chunk_1",
     "document_id": "pension_begreber",
-    "title": "Pension Begreber",
+    "document_title": "Pension Begreber",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_begreber.txt",
     "text": "Vigtige begreber: Arbejdsevne: - Hvor meget du kan arbejde Opsparing: - Penge til pension Afkast: - Gevinst fra investering Risiko: - Sandsynlighed for tab ÅOP: - Omkostninger ved pension Udbetaling: - Månedligt beløb Folkepension: - Offentlig pension Arbejdsmarkedspension: - Pension via arbejde"
@@ -186,7 +186,7 @@
   {
     "chunk_id": "pension_arv_chunk_1",
     "document_id": "pension_arv",
-    "title": "Pension Arv",
+    "document_title": "Pension Arv",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "pension_arv.txt",
     "text": "Pension og arv: Ægtefæller: - Arver hinanden automatisk Samlevende: - Arver ikke automatisk - Kræver begunstigelse Begunstigelse: - Bestemmer hvem der får pension ved død Fordele ved ægteskab: - Skattefordele - Arveret Ulemper: - Økonomisk afhængighed"
@@ -194,15 +194,15 @@
   {
     "chunk_id": "atp_chunk_1",
     "document_id": "atp",
-    "title": "Atp",
+    "document_title": "Atp",
     "source_folder": "lovgivning_og_generel_pensionsviden",
     "filename": "atp.txt",
-    "text": "Kilder: - https://www.borger.dk/pension-og-efterloen/ATP-Livslang-Pension ATP Livslang Pension er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark. Der indbetales automatisk til ATP gennem arbejde, og bidraget afhænger af arbejdstid. ATP udbetales som en livsvarig pension, når folkepensionsalderen nås. Udbetalingen afhænger af, hvor meget der er indbetalt gennem arbejdslivet. ATP fungerer som et supplement til folkepension og andre pensionsordninger. Ved rådgivning bør ATP indgå som en del af det samlede pensionsoverblik."
+    "text": "Kilder: - https://www.borger.dk/pension-og-efterloen/ATP-Livslang-Pension ATP Livslang Pension (Arbejdsmarkedets Tillægspension) er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark. Der indbetales automatisk til ATP gennem arbejde, og bidraget afhænger af arbejdstid. ATP udbetales som en livsvarig pension, når folkepensionsalderen nås. Udbetalingen afhænger af, hvor meget der er indbetalt gennem arbejdslivet. ATP fungerer som et supplement til folkepension og andre pensionsordninger. Ved rådgivning bør ATP indgå som en del af det samlede pensionsoverblik."
   },
   {
     "chunk_id": "udbetalingsregler_ved_doedsfald_chunk_1",
     "document_id": "udbetalingsregler_ved_doedsfald",
-    "title": "Udbetalingsregler Ved Doedsfald",
+    "document_title": "Udbetalingsregler Ved Doedsfald",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "udbetalingsregler_ved_doedsfald.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde Udbetaling ved dødsfald Hvis en person dør inden folkepensionsalderen, vil der som hovedregel ske en udbetaling fra pensionsordningen til efterladte. Udbetalingen afhænger af pensionsordningens indhold, herunder alder, indbetaling og hvilke dækninger der er knyttet til ordningen. Mange pensionsordninger indeholder en forsikring ved dødsfald, som kan blive udbetalt til efterladte. Forsikringen bortfalder typisk, hvis der ikke længere indbetales til pensionen i en længere periode. I nogle tilfælde kan der også være ret til en ægtefælle- eller samleverpension, som udbetales løbende til efterladte. Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte ved dødsfald. Derimod kan opsparing til ratepension eller engangsudbetaling normalt blive udbetalt til efterladte. Udbetalingen ved dødsfald følger som udgangspunkt reglerne i pensionsordningen og afhænger"
@@ -210,7 +210,7 @@
   {
     "chunk_id": "udbetalingsregler_ved_doedsfald_chunk_2",
     "document_id": "udbetalingsregler_ved_doedsfald",
-    "title": "Udbetalingsregler Ved Doedsfald",
+    "document_title": "Udbetalingsregler Ved Doedsfald",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "udbetalingsregler_ved_doedsfald.txt",
     "text": "til ratepension eller engangsudbetaling normalt blive udbetalt til efterladte. Udbetalingen ved dødsfald følger som udgangspunkt reglerne i pensionsordningen og afhænger af, hvilke dækninger og opsparingsformer den enkelte kunde har."
@@ -218,7 +218,7 @@
   {
     "chunk_id": "forsikringer_i_pension_chunk_1",
     "document_id": "forsikringer_i_pension",
-    "title": "Forsikringer I Pension",
+    "document_title": "Forsikringer I Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "forsikringer_i_pension.txt",
     "text": "Kilder: - https://www.pensam.dk/forsikring Forsikringer i pension En pensionsordning kan indeholde mere end opsparing. Den kan også indeholde forsikringsdækninger, som skal give økonomisk tryghed ved særlige livssituationer. Det kan for eksempel være dækning ved dødsfald, hvor efterladte kan have ret til en udbetaling. I nogle tilfælde kan der også være ret til ægtefælle- eller samleverpension. Hvilke forsikringer der er knyttet til pensionsordningen, afhænger af den konkrete ordning, kundens alder og om der fortsat indbetales til pensionen. Nogle forsikringsdækninger bortfalder, hvis der ikke længere indbetales til pensionsordningen. Forsikringer i pension skal derfor ses som en del af den samlede økonomiske tryghed og ikke kun som en opsparing til alderdommen. Ved spørgsmål om konkrete dækninger bør kundens egen pensionsordning og oplysninger altid kontrolleres."
@@ -226,7 +226,7 @@
   {
     "chunk_id": "beskatning_af_pension_chunk_1",
     "document_id": "beskatning_af_pension",
-    "title": "Beskatning Af Pension",
+    "document_title": "Beskatning Af Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "beskatning_af_pension.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/diverse/lp_skattekoder Beskatning af pension Beskatning af pension afhænger af typen af pensionsordning og sker enten ved indbetaling eller ved udbetaling. For pensionsordninger med løbende udbetalinger, som alderspension, førtidspension og ægtefællepension, gives der som udgangspunkt fradrag ved indbetaling. Det betyder, at indbetaling ikke beskattes, men til gengæld skal der betales indkomstskat af de løbende udbetalinger. For ratepension gælder samme princip. Indbetalinger inden for et fastsat loft giver fradrag, og udbetaling beskattes som almindelig indkomst. Ved udbetaling til efterladte kan der i visse tilfælde blive pålagt en afgift. For ordninger uden fradragsret, som aldersopsparing og aldersforsikring, beskattes indbetalingen i stedet. Det betyder, at der ikke gives fradrag ved indbetaling, men til gengæld er udbetaling som udgangspunkt skattefri. Nogle forsikringsordninger, som"
@@ -234,7 +234,7 @@
   {
     "chunk_id": "beskatning_af_pension_chunk_2",
     "document_id": "beskatning_af_pension",
-    "title": "Beskatning Af Pension",
+    "document_title": "Beskatning Af Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "beskatning_af_pension.txt",
     "text": "Det betyder, at der ikke gives fradrag ved indbetaling, men til gengæld er udbetaling som udgangspunkt skattefri. Nogle forsikringsordninger, som gruppelivsforsikring og dækning ved kritisk sygdom, beskattes ved indbetaling, men udbetales skattefrit til kunden eller efterladte. Overordnet kan pensionsbeskatning opdeles i to principper: - fradrag ved indbetaling og beskatning ved udbetaling - beskatning ved indbetaling og skattefri udbetaling Hvilken model der gælder, afhænger af den konkrete pensionsordning."
@@ -242,7 +242,7 @@
   {
     "chunk_id": "pension_skat_opsparing_chunk_1",
     "document_id": "pension_skat_opsparing",
-    "title": "Pension Skat Opsparing",
+    "document_title": "Pension Skat Opsparing",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "pension_skat_opsparing.txt",
     "text": "PENSION I PENSAM – SKAT OG OPSPARING Typer: - Aldersopsparing - Ratepension - Livsvarig pension Aldersopsparing: - Ingen fradrag - Skattefri udbetaling Ratepension: - Fradrag nu - Skat ved udbetaling Loft: - Ca. 9.900 kr/år - Op til 64.200 kr hvis tæt på pension Overskridelse: - 20–40% afgift Afkast: - PAL-skat ca. 15,3% Vigtigt: - Valg = skat nu vs senere"
@@ -250,7 +250,7 @@
   {
     "chunk_id": "jobskifte_og_pension_chunk_1",
     "document_id": "jobskifte_og_pension",
-    "title": "Jobskifte Og Pension",
+    "document_title": "Jobskifte Og Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "jobskifte_og_pension.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-job/du_har_faaet_nyt_job :contentReference[oaicite:0]{index=0} Jobskifte og pension Når du skifter job, får du som regel en pensionsordning et nyt sted. Du kan vælge at lade din pension blive hos PenSam i stedet for at flytte den. Hvis pensionen bliver stående i PenSam, fortsætter opsparingen med at få tilskrevet renter. Derudover er du som udgangspunkt fortsat dækket af visse forsikringer, som kritisk sygdom, førtidspension og dødsfald i op til 12 måneder efter, at indbetalingerne stopper. Du kan også vælge at flytte din pension til et nyt pensionsselskab, hvis du begynder at indbetale til pension et andet sted. Det gør du ved at kontakte dit nye selskab. Inden du flytter din pension, bør du undersøge, om du mister vigtige forsikringsdækninger eller gode"
@@ -258,7 +258,7 @@
   {
     "chunk_id": "jobskifte_og_pension_chunk_2",
     "document_id": "jobskifte_og_pension",
-    "title": "Jobskifte Og Pension",
+    "document_title": "Jobskifte Og Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "jobskifte_og_pension.txt",
     "text": "at kontakte dit nye selskab. Inden du flytter din pension, bør du undersøge, om du mister vigtige forsikringsdækninger eller gode vilkår. I nogle pensionsordninger med markedsrente kan udsving på investeringer påvirke pensionen direkte. Det kan derfor være relevant at overveje, om man ønsker denne risiko. Valget mellem at beholde eller flytte pension afhænger af den konkrete situation og de vilkår, der gælder for den enkelte ordning."
@@ -266,7 +266,7 @@
   {
     "chunk_id": "tidlig_pension_ansogning_chunk_1",
     "document_id": "tidlig_pension_ansogning",
-    "title": "Tidlig Pension Ansogning",
+    "document_title": "Tidlig Pension Ansogning",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "tidlig_pension_ansogning.txt",
     "text": "ANSØGNING OM TIDLIG PENSION - Søg via borger.dk - Du får først en afgørelse (ret til pension) Efter godkendelse: - Du vælger selv hvornår du vil starte Deadline: - Senest ca. 3,5 år før folkepension for fuld periode"
@@ -274,7 +274,7 @@
   {
     "chunk_id": "pension_job_aendringer_chunk_1",
     "document_id": "pension_job_aendringer",
-    "title": "Pension Job Aendringer",
+    "document_title": "Pension Job Aendringer",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "pension_job_aendringer.txt",
     "text": "ÆNDRINGER I JOB OG PENSION Hvis du skifter job: - Din pension ændres Muligheder: - Fortsætte indbetaling - Flytte pension - Stoppe indbetaling Vigtigt: - Kan påvirke forsikringer - Kan påvirke udbetalinger Ved nyt job: - Ny pensionsordning kan gælde"
@@ -282,7 +282,7 @@
   {
     "chunk_id": "aldersopsparing_chunk_1",
     "document_id": "aldersopsparing",
-    "title": "Aldersopsparing",
+    "document_title": "Aldersopsparing",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "aldersopsparing.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/aldersopsparing Aldersopsparing er en pensionsordning, hvor der ikke er fradrag for indbetaling, men hvor udbetalingen til gengæld er skattefri. Skatten betales i stedet ved indbetalingstidspunktet. Det betyder, at indbetaling til aldersopsparing kan øge den skattepligtige indkomst i dag. Der er et loft for, hvor meget der må indbetales årligt. Loftet gælder samlet for aldersopsparing og aldersforsikring, også hvis man indbetaler i flere pensionsselskaber eller banker. Loftet er højere, når man nærmer sig pensionsalderen. Aldersopsparingen kan typisk udbetales fra omkring tre år før folkepensionsalderen, og den kan udbetales, selvom man fortsat er i arbejde. I PenSam udbetales aldersopsparing som et engangsbeløb. Hvis opsparingen ikke er udbetalt inden dødsfald, vil den blive udbetalt til efterladte. Valget mellem aldersopsparing og andre"
@@ -290,7 +290,7 @@
   {
     "chunk_id": "aldersopsparing_chunk_2",
     "document_id": "aldersopsparing",
-    "title": "Aldersopsparing",
+    "document_title": "Aldersopsparing",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "aldersopsparing.txt",
     "text": "et engangsbeløb. Hvis opsparingen ikke er udbetalt inden dødsfald, vil den blive udbetalt til efterladte. Valget mellem aldersopsparing og andre pensionsordninger afhænger af den enkeltes økonomiske situation. For personer, der betaler topskat, kan det være mindre fordelagtigt at indbetale til aldersopsparing, da der ikke opnås fradrag."
@@ -298,7 +298,7 @@
   {
     "chunk_id": "førtidspension_vilkaar_chunk_1",
     "document_id": "førtidspension_vilkaar",
-    "title": "Førtidspension Vilkaar",
+    "document_title": "Førtidspension Vilkaar",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "førtidspension_vilkaar.txt",
     "text": "VILKÅR FOR FØRTIDSPENSION Du skal: - Informere ved ændringer i helbred - Informere hvis offentlig pension stopper Du får: - Fortsat pensionsindbetaling - Forsikringsdækning (ofte til folkepension) Afslag: - Begrundelse sendes i e-Boks"
@@ -306,7 +306,7 @@
   {
     "chunk_id": "førtidspension_pensam_chunk_1",
     "document_id": "førtidspension_pensam",
-    "title": "Førtidspension Pensam",
+    "document_title": "Førtidspension Pensam",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "førtidspension_pensam.txt",
     "text": "FØRTIDSPENSION – PENSAM Betingelser: - Offentlig førtidspension - Seniorpension - Eller forlængede sygedagpenge (alvorlig sygdom) Proces: - Ansøg via Min Pension eller kontakt PenSam - Behandlingstid: ca. 1 måned efter alle oplysninger Udbetaling: - Månedlig + evt. engangsbeløb - Udbetales til NemKonto Skat: - Månedlig pension beskattes - Engangsbeløb er skattefrit Vigtigt: - Du skal sende dokumentation (læge, kommune osv.) - Udbetaling starter efter godkendelse Begrænsninger: - Ingen udbetaling hvis stadig i behandling i det offentlige system"
@@ -314,7 +314,7 @@
   {
     "chunk_id": "indbetaling_og_lofter_chunk_1",
     "document_id": "indbetaling_og_lofter",
-    "title": "Indbetaling Og Lofter",
+    "document_title": "Indbetaling Og Lofter",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "indbetaling_og_lofter.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/pension-i-pensam/skat/lp_lofter Indbetalinger og lofter Der er årlige grænser for, hvor meget der må indbetales til visse pensionsordninger. Det gælder blandt andet ratepension, aldersopsparing og aldersforsikring. For ratepension gælder der et samlet årligt loft for indbetalinger på tværs af pensionsselskaber og banker. Hvis loftet overskrides, gives der ikke fradrag for det beløb, der er indbetalt for meget. For aldersopsparing og aldersforsikring gælder der også et årligt loft. Loftet afhænger blandt andet af, hvor mange år der er til folkepensionsalderen, og om udbetaling af pension allerede er påbegyndt. Hvis der indbetales for meget til aldersopsparing eller aldersforsikring, kan der blive pålagt en særlig afgift. I nogle tilfælde kan afgiften reduceres, hvis det overskydende beløb flyttes til en anden fradragsberettiget pensionsordning."
@@ -322,7 +322,7 @@
   {
     "chunk_id": "indbetaling_og_lofter_chunk_2",
     "document_id": "indbetaling_og_lofter",
-    "title": "Indbetaling Og Lofter",
+    "document_title": "Indbetaling Og Lofter",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "indbetaling_og_lofter.txt",
     "text": "pålagt en særlig afgift. I nogle tilfælde kan afgiften reduceres, hvis det overskydende beløb flyttes til en anden fradragsberettiget pensionsordning. Hvis en kunde indbetaler til pension flere steder, for eksempel efter jobskifte eller via privat pension, kan der være risiko for at overskride de samlede indbetalingslofter. Ved for høj indbetaling bør kunden kontakte det relevante pensionsselskab eller bank, så indbetalingen eventuelt kan korrigeres. Hvilke regler der gælder, afhænger af pensionsordningen, indbetalingsformen og kundens konkrete situation."
@@ -330,7 +330,7 @@
   {
     "chunk_id": "tidlig_pension_chunk_1",
     "document_id": "tidlig_pension",
-    "title": "Tidlig Pension",
+    "document_title": "Tidlig Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "tidlig_pension.txt",
     "text": "TIDLIG PENSION (ARNE-PENSION) Definition: - Mulighed for pension op til 3 år før folkepension Krav: - Lang tilknytning til arbejdsmarkedet - Typisk 42-44 år Alder: - Kan søges ca. 6 år før folkepension Udbetaling: - Maks ca. 13.550 kr/md før skat Vigtigt: - Afhænger IKKE af helbred - Afhænger af arbejdsliv Ansøgning: - Via borger.dk"
@@ -338,7 +338,7 @@
   {
     "chunk_id": "ratepension_chunk_1",
     "document_id": "ratepension",
-    "title": "Ratepension",
+    "document_title": "Ratepension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "ratepension.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/ratepension Ratepension er en pensionsordning, hvor opsparingen udbetales over en begrænset periode, typisk mellem 10 og 30 år. Formålet med en ratepension er at give en mere fleksibel udbetaling af pensionen, hvor man kan vælge at få en større del af sin opsparing udbetalt i de første år som pensionist. Indbetaling til ratepension sker ofte via arbejdsgiver og kan være før skat. Hvis man selv indbetaler ekstra, kan man få fradrag for indbetalingen. Der er et loft for, hvor meget der må indbetales årligt til ratepension. Loftet gælder samlet for alle pensionsordninger af denne type, også hvis man indbetaler i flere pensionsselskaber. Hvis man dør, før hele opsparingen er udbetalt, vil det resterende beløb blive udbetalt til efterladte."
@@ -346,7 +346,7 @@
   {
     "chunk_id": "ratepension_chunk_2",
     "document_id": "ratepension",
-    "title": "Ratepension",
+    "document_title": "Ratepension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "ratepension.txt",
     "text": "indbetaler i flere pensionsselskaber. Hvis man dør, før hele opsparingen er udbetalt, vil det resterende beløb blive udbetalt til efterladte. Udbetalingen af ratepension skal starte inden for en vis periode efter pensionsalderen. Hvis udbetalingen ikke startes, kan opsparingen blive omdannet til en livsvarig pension."
@@ -354,7 +354,7 @@
   {
     "chunk_id": "livrente_livsvarig_pension_chunk_1",
     "document_id": "livrente_livsvarig_pension",
-    "title": "Livrente Livsvarig Pension",
+    "document_title": "Livrente Livsvarig Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "livrente_livsvarig_pension.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/saadan-fungerer-livsvarig-pension Livrente, også kaldet livsvarig pension, er en pensionsordning, hvor udbetalingen sker løbende hver måned resten af livet. Formålet med livrente er at sikre en stabil indkomst som pensionist, uanset hvor gammel man bliver. Udbetalingen stopper derfor først ved dødsfald. Størrelsen på den månedlige udbetaling afhænger af, hvor meget der er indbetalt til pensionen, samt hvor længe man forventes at leve. En fordel ved livrente er, at man ikke risikerer at løbe tør for pension. I nogle tilfælde kan man få udbetalt mere, end man selv har indbetalt, hvis man lever længere end gennemsnittet. Indbetaling til livrente giver som udgangspunkt fradrag, mens udbetaling beskattes som almindelig indkomst, afhængigt af ordningens type. Opsparing til livrente bliver som udgangspunkt ikke"
@@ -362,7 +362,7 @@
   {
     "chunk_id": "livrente_livsvarig_pension_chunk_2",
     "document_id": "livrente_livsvarig_pension",
-    "title": "Livrente Livsvarig Pension",
+    "document_title": "Livrente Livsvarig Pension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "livrente_livsvarig_pension.txt",
     "text": "som udgangspunkt fradrag, mens udbetaling beskattes som almindelig indkomst, afhængigt af ordningens type. Opsparing til livrente bliver som udgangspunkt ikke udbetalt til efterladte ved dødsfald. I stedet er efterladte typisk dækket gennem forsikringer i pensionsordningen. Hvis man ønsker at sikre udbetaling til efterladte, kan det være relevant at kombinere livrente med andre pensionsordninger som ratepension eller aldersopsparing."
@@ -370,7 +370,7 @@
   {
     "chunk_id": "førtidspension_udbetaling_chunk_1",
     "document_id": "førtidspension_udbetaling",
-    "title": "Førtidspension Udbetaling",
+    "document_title": "Førtidspension Udbetaling",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "førtidspension_udbetaling.txt",
     "text": "UDBETALING AF FØRTIDSPENSION - Starter efter godkendelse - Udbetales til NemKonto - Du får besked i e-Boks Indhold: - Månedlig pension - Eventuelt engangsbeløb Du får også: - Pensionsoplysning i e-Boks Ændringer: - Ved ændringer → ny pensionsoplysning"
@@ -378,7 +378,7 @@
   {
     "chunk_id": "pension_overblik_chunk_1",
     "document_id": "pension_overblik",
-    "title": "Pension Overblik",
+    "document_title": "Pension Overblik",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "pension_overblik.txt",
     "text": "PENSION I PENSAM – OVERBLIK Består af: - Opsparing - Forsikringer Dækker: - Pension - Sygdom - Dødsfald Indbetaling: - Fra arbejde - Evt. privat Udbetaling: - Ved pension eller sygdom Formål: - Økonomisk sikkerhed"
@@ -386,7 +386,7 @@
   {
     "chunk_id": "begustigelse_og_efterladte_chunk_1",
     "document_id": "begustigelse_og_efterladte",
-    "title": "Begustigelse Og Efterladte",
+    "document_title": "Begustigelse Og Efterladte",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "begustigelse_og_efterladte.txt",
     "text": "Kilder: - https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde Begunstigelse og efterladte Ved dødsfald fra en pensionsordning bliver en eventuel udbetaling som udgangspunkt givet til de nærmeste pårørende, hvis der ikke er truffet et andet valg. Nærmeste pårørende omfatter typisk ægtefælle, samlever og børn, afhængigt af den konkrete situation og de gældende regler. Det er muligt selv at bestemme, hvem der skal modtage en eventuel udbetaling fra pensionen. Dette kaldes begunstigelse. Hvis der ikke er valgt en specifik modtager, vil udbetalingen følge standardreglerne for nærmeste pårørende. Valg af modtager kan have stor betydning, især i situationer med samlevende, børn fra tidligere forhold eller andre komplekse familieforhold. Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte, mens andre ordninger som ratepension eller aldersopsparing kan blive"
@@ -394,7 +394,7 @@
   {
     "chunk_id": "begustigelse_og_efterladte_chunk_2",
     "document_id": "begustigelse_og_efterladte",
-    "title": "Begustigelse Og Efterladte",
+    "document_title": "Begustigelse Og Efterladte",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "begustigelse_og_efterladte.txt",
     "text": "Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte, mens andre ordninger som ratepension eller aldersopsparing kan blive det. Udbetaling fra en pensionsordning går som hovedregel uden om dødsboet og følger derfor ikke nødvendigvis bestemmelser i et testamente, medmindre der er truffet et særligt valg."
@@ -402,7 +402,7 @@
   {
     "chunk_id": "pensionsafkastskat_og_kontorente_chunk_1",
     "document_id": "pensionsafkastskat_og_kontorente",
-    "title": "Pensionsafkastskat Og Kontorente",
+    "document_title": "Pensionsafkastskat Og Kontorente",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "pensionsafkastskat_og_kontorente.txt",
     "text": "Kilder: - Pensam-materiale om fra investeringsafkast til kontorente Pensionsafkastskat og kontorente I PenSam kan pension være baseret på gennemsnitsrente. Det betyder, at renten på pensionen udjævnes over tid, så pensionen ikke svinger direkte op og ned med investeringsmarkedet. Pensionsafkastskat er den skat, der betales til staten af investeringsafkastet på pensionsmidler. Skatten er 15,3% af investeringsafkastet. Pensionsafkastskat indgår som en del af beregningen fra investeringsafkast til den kontorente, medlemmet får på sin pension. Kontorenten er den rente, der tilskrives pensionen. Den afhænger ikke kun af årets investeringsafkast, men også af blandt andet investeringsomkostninger, pensionsafkastskat og udjævning via fælles reserver. Udjævningen sker blandt andet gennem kollektivt bonuspotentiale, som fungerer som en fælles stødpude. Formålet er at skabe en mere stabil udvikling i"
@@ -410,7 +410,7 @@
   {
     "chunk_id": "pensionsafkastskat_og_kontorente_chunk_2",
     "document_id": "pensionsafkastskat_og_kontorente",
-    "title": "Pensionsafkastskat Og Kontorente",
+    "document_title": "Pensionsafkastskat Og Kontorente",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "pensionsafkastskat_og_kontorente.txt",
     "text": "blandt andet gennem kollektivt bonuspotentiale, som fungerer som en fælles stødpude. Formålet er at skabe en mere stabil udvikling i pensionen over tid. Derfor kan kontorenten være mere stabil end markedsafkastet, fordi gode og dårlige investeringsår udjævnes mellem medlemmerne."
@@ -418,7 +418,7 @@
   {
     "chunk_id": "seniorpension_chunk_1",
     "document_id": "seniorpension",
-    "title": "Seniorpension",
+    "document_title": "Seniorpension",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "seniorpension.txt",
     "text": "SENIORPENSION Målgruppe: - Personer tæt på folkepension Krav: - Max 6 år til folkepension - Arbejdsevne ≤ 15 timer/uge Vurdering: - Baseret på helbred og sidste job Tilknytning: - Typisk 20-25 år på arbejdsmarkedet Udbetaling: - Ligner førtidspension"
@@ -426,7 +426,7 @@
   {
     "chunk_id": "tidlig_pension_betingelser_chunk_1",
     "document_id": "tidlig_pension_betingelser",
-    "title": "Tidlig Pension Betingelser",
+    "document_title": "Tidlig Pension Betingelser",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "tidlig_pension_betingelser.txt",
     "text": "BETINGELSER FOR TIDLIG PENSION Du skal: - Være dansk statsborger - Bo i Danmark - Have arbejdet i mange år Tæller med: - Arbejde - Barsel - Dagpenge - Sygdom Tæller IKKE: - Kontanthjælp Minimum: - Ca. 42-44 års tilknytning"
@@ -434,7 +434,7 @@
   {
     "chunk_id": "føtidspension_ansogning_chunk_1",
     "document_id": "føtidspension_ansogning",
-    "title": "Føtidspension Ansogning",
+    "document_title": "Føtidspension Ansogning",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "føtidspension_ansogning.txt",
     "text": "ANSØGNING OM FØRTIDSPENSION Trin: 1. Indsend ansøgning 2. Send dokumentation 3. PenSam vurderer 4. Afgørelse sendes i e-Boks Dokumenter: - Afgørelse fra kommune - Lægeoplysninger - Samtykke - Bankoplysninger Tidsramme: - Ca. 1 måned (kan være længere) Hvis mangler info: - Du får brev om yderligere dokumentation"
@@ -442,7 +442,7 @@
   {
     "chunk_id": "investering_og_afkast_chunk_1",
     "document_id": "investering_og_afkast",
-    "title": "Investering Og Afkast",
+    "document_title": "Investering Og Afkast",
     "source_folder": "pensam_virksomhedsviden",
     "filename": "investering_og_afkast.txt",
     "text": "Kilder: - https://www.pensam.dk/om_pensam/hvem_er_vi/pensams-organisation/investering :contentReference[oaicite:0]{index=0} Investering PenSam har et investeringsområde, der er ansvarligt for at forvalte den samlede investeringsportefølje. Investeringerne omfatter både likvide aktiver og alternative investeringer. Investeringsområdet arbejder også med at sikre, at PenSams politikker for bæredygtighed indgår i investeringsforvaltningen. Organisationen er opbygget med en investeringsdirektør og flere underliggende afdelinger."

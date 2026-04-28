@@ -91,7 +91,7 @@ def create_chunks(documents: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
                 {
                     "chunk_id": f"{doc['document_id']}_chunk_{i}",
                     "document_id": doc["document_id"],
-                    "title": doc["title"],
+                    "document_title": doc["title"],
                     "source_folder": doc["source_folder"],
                     "filename": doc["filename"],
                     "text": text,
@@ -179,7 +179,7 @@ def cosine_similarity(vec_a: List[float], vec_b: List[float]) -> float:
     return dot_product / (norm_a * norm_b)
 
 
-def retrieve_top_chunks(query: str, top_k: int = 3, min_score: float = 0.75) -> List[Dict[str, Any]]:
+def retrieve_top_chunks(query: str, top_k: int = 3, min_score: float = 0.55) -> List[Dict[str, Any]]:
     embedded_chunks = load_json(EMBEDDINGS_FILE)
     query_embedding = embed_text(query, task_type="RETRIEVAL_QUERY")
 
@@ -206,7 +206,7 @@ def build_context(top_chunks: List[Dict[str, Any]]) -> str:
     parts = []
     for chunk in top_chunks:
         parts.append(
-            f"Kilde: {chunk['title']} ({chunk['filename']})\n"
+            f"Kilde: {chunk['document_title']} ({chunk['filename']})\n"
             f"Indhold: {chunk['text']}"
         )
 
@@ -226,6 +226,6 @@ if __name__ == "__main__":
 
     print("\nTop chunks:")
     for chunk in results:
-        print(f"- {chunk['chunk_id']} | {chunk['title']}")
+        print(f"- {chunk['chunk_id']} | {chunk['document_title']}")
         print(chunk["text"][:250])
         print()

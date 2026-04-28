@@ -1,7 +1,7 @@
 Kilder:
 - https://www.borger.dk/pension-og-efterloen/ATP-Livslang-Pension
 
-ATP Livslang Pension er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark.
+ATP Livslang Pension (Arbejdsmarkedets Tillægspension) er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark.
 
 Der indbetales automatisk til ATP gennem arbejde, og bidraget afhænger af arbejdstid.
 

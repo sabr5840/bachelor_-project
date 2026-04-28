@@ -53,7 +53,6 @@ def classify_question(user_text: str) -> str:
 
     # SEMI bagefter
     if any(x in text for x in [
-        "skat",
         "samle",
         "udbetaling",
         "begunstiget",
@@ -157,7 +156,7 @@ Brugerens spørgsmål:
 
         sources = [
             {
-                "title": chunk["title"],
+                "document_title": chunk["document_title"],
                 "filename": chunk["filename"],
                 "chunk_id": chunk["chunk_id"],
             }

@@ -125,6 +125,7 @@ Spørgsmålet ligger i en gråzone.
 Du skal derfor:
 - give et generelt og informativt svar
 - tage et tydeligt forbehold
+- hold svaret kort og fokuseret
 - forklare, at den konkrete vurdering afhænger af brugerens egen ordning eller situation
 - ikke afvise spørgsmålet direkte
 """

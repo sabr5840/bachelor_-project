@@ -1,12 +1,43 @@
-Kilder:
-- https://star.dk/ydelser/pension-og-efterloen/folkepension-tidlig-pension-foertidspension-og-seniorpension/folkepension/folkepensionsalderen-nu-og-fremover
+TITEL:
+Folkepensionsalder
 
-Folkepensionsalderen i Danmark afhænger af fødselsår og kan ændre sig over tid.
+KILDER:
 
-For mange borgere ligger pensionsalderen i dag mellem 67 og 69 år, men den reguleres løbende i takt med den forventede levetid.
+* https://star.dk/ydelser/pension-og-efterloen/folkepension-tidlig-pension-foertidspension-og-seniorpension/folkepension/folkepensionsalderen-nu-og-fremover
 
-Det er derfor vigtigt at undersøge den konkrete pensionsalder ud fra fødselsdato.
+BESKRIVELSE:
+Folkepensionsalderen afhænger af fødselsår og reguleres løbende i takt med levealderen.
 
-Folkepensionsalderen har betydning for, hvornår offentlige ydelser og pensionsudbetalinger kan begynde.
+REGLER:
 
-Ved rådgivning bør det sikres, at kunden er opmærksom på sin specifikke pensionsalder.
+* Justeres politisk
+* Afhænger af fødselsdato
+
+BETINGELSER:
+
+* Individuel vurdering via fødselsår
+
+UDBETALING / FUNKTION:
+
+* Starter ved opnået pensionsalder
+
+SKAT:
+
+* Ingen direkte skat → men påvirker pensionstidspunkt
+
+FORDELE:
+
+* Forudsigelig ramme
+
+ULEMPER:
+
+* Kan ændre sig over tid
+
+RÅDGIVNING:
+
+* Tjek altid individuel pensionsalder
+* Planlæg opsparing derefter
+
+FALDGRUBER:
+
+* Forkert antagelse om pensionsalder

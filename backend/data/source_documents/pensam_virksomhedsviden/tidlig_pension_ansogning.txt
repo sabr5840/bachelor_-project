@@ -1,10 +1,45 @@
-ANSØGNING OM TIDLIG PENSION
+TITEL:
+Ansøgning om tidlig pension
 
-- Søg via borger.dk
-- Du får først en afgørelse (ret til pension)
+KILDER:
 
-Efter godkendelse:
-- Du vælger selv hvornår du vil starte
+* https://www.borger.dk
 
-Deadline:
-- Senest ca. 3,5 år før folkepension for fuld periode
+BESKRIVELSE:
+Ansøgning om tidlig pension sker via borger.dk og består af en vurdering af, om man opfylder kravene.
+
+REGLER:
+
+* Først vurderes retten til pension
+* Derefter vælges starttidspunkt
+
+BETINGELSER:
+
+* Opfylder krav til anciennitet
+* Ansøger inden deadline
+
+UDBETALING / FUNKTION:
+
+* Starter når kunden selv vælger efter godkendelse
+
+SKAT:
+
+* Beskattes som indkomst
+
+FORDELE:
+
+* Fleksibilitet i start
+
+ULEMPER:
+
+* Kræver planlægning
+
+RÅDGIVNING:
+
+* Ansøg i god tid
+* Planlæg start ift. økonomi
+
+FALDGRUBER:
+
+* For sen ansøgning → tab af rettigheder
+* Misforstå timing

@@ -1,17 +1,42 @@
-SENIORPENSION
+TITEL:
+Seniorpension
 
-Målgruppe:
-- Personer tæt på folkepension
+KILDER:
 
-Krav:
-- Max 6 år til folkepension
-- Arbejdsevne ≤ 15 timer/uge
+* Ikke angivet
 
-Vurdering:
-- Baseret på helbred og sidste job
+BESKRIVELSE:
+Seniorpension gives til personer tæt på folkepension med nedsat arbejdsevne.
 
-Tilknytning:
-- Typisk 20-25 år på arbejdsmarkedet
+REGLER:
 
-Udbetaling:
-- Ligner førtidspension
+* Max 6 år til folkepension
+* Arbejdsevne ≤ 15 timer/uge
+
+BETINGELSER:
+
+* Lang tilknytning til arbejdsmarked
+
+UDBETALING / FUNKTION:
+
+* Ligner førtidspension
+
+SKAT:
+
+* Beskattes som indkomst
+
+FORDELE:
+
+* Tidligere pension
+
+ULEMPER:
+
+* Strenge krav
+
+RÅDGIVNING:
+
+* Relevant ved nedslidning
+
+FALDGRUBER:
+
+* Forveksles med førtidspension

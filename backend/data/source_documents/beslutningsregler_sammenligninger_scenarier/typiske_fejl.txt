@@ -1,0 +1,48 @@
+TITEL:
+Typiske fejl i pensionsrådgivning
+
+KILDER:
+- Ikke angivet
+
+BESKRIVELSE:
+Denne fil beskriver typiske fejl, som kunder kan begå ved pension, skat, arv, risiko og jobskifte.
+
+REGLER:
+- Kunden bør altid få forklaret både fordele, ulemper og faldgruber.
+- AI’en skal tage forbehold ved personlige økonomiske beslutninger.
+- Ved komplekse forhold bør kunden kontakte en pensionsrådgiver.
+
+BETINGELSER:
+- Fejl afhænger af kundens situation, pensionsordning og mål.
+- Bruges som tjekliste ved generel vejledning.
+
+UDBETALING / FUNKTION:
+- Hjælper AI’en med at advare om typiske risici.
+- Bruges til at kvalitetssikre pensionssvar.
+
+SKAT:
+- For meget ratepension kan give høj skat ved udbetaling.
+- Manglende planlægning kan påvirke pensionstillæg og modregning.
+- PAL-skat påvirker afkastet på pensionsopsparing.
+
+FORDELE:
+- Gør rådgivningen mere sikker.
+- Hjælper kunden med at undgå almindelige fejl.
+- Giver AI’en bedre mulighed for at give nuancerede svar.
+
+ULEMPER:
+- Kan virke generelt uden kundens konkrete oplysninger.
+- Kan ikke erstatte individuel vurdering.
+
+RÅDGIVNING:
+- Gennemgå typiske fejl som tjekliste.
+- Spørg ind til skat, arv, risiko, jobskifte og udbetaling.
+- Anbefal rådgiver ved usikkerhed.
+
+FALDGRUBER:
+- At ignorere modregning i folkepension.
+- At glemme begunstigelse.
+- At have for høj risiko tæt på pension.
+- At starte pensionsplanlægning for sent.
+- At miste forsikringer ved jobskifte.
+- At overvurdere egen forståelse af pension.

@@ -1,19 +1,44 @@
-Kilder:
-- https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast
-- https://www.retsinformation.dk/eli/lta/2014/1126
+TITEL:
+Pensionsafkastskat (PAL-skat)
 
-Pensionsafkastskat (PAL-skat) er en skat på afkastet af pensionsopsparing. Det betyder, at renter, udbytter og kursgevinster på pensionsmidler beskattes løbende.
+KILDER:
 
-Afkast på pensionsordninger beskattes med en fast sats på 15,3 %.
+* https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast
+* https://www.retsinformation.dk/eli/lta/2014/1126
 
-PAL-skat beregnes hvert år af det samlede afkast på pensionsopsparingen, uanset om afkastet er realiseret eller ej.
+BESKRIVELSE:
+PAL-skat er en skat på afkast af pensionsopsparing.
 
-Skatten håndteres som udgangspunkt automatisk af pensionsselskabet eller banken, som både beregner, indberetter og betaler skatten for kunden.
+REGLER:
 
-Hvis pensionsopsparingen har haft et negativt afkast, kan dette modregnes i fremtidige positive afkast, før der igen beregnes PAL-skat.
+* Fast sats: 15,3 %
+* Beregnes årligt
 
-PAL-skat adskiller sig fra beskatning ved udbetaling, da den opkræves løbende under opsparingen og ikke først ved udbetaling af pensionen.
+BETINGELSER:
 
-Reglerne er fastsat i pensionsafkastbeskatningsloven, og der kan gælde særlige undtagelser afhængigt af pensionsordningstype og skatteforhold.
+* Gælder alle pensionsordninger
 
-Ved rådgivning bør det understreges, at konkrete forhold kan variere, og at gældende lovgivning altid bør konsulteres ved tvivl.
+UDBETALING / FUNKTION:
+
+* Trækkes automatisk
+
+SKAT:
+
+* Løbende beskatning af afkast
+
+FORDELE:
+
+* Enkel og ensartet beskatning
+
+ULEMPER:
+
+* Reducerer afkast
+
+RÅDGIVNING:
+
+* Indregn i forventet afkast
+* Sammenlign med andre investeringer
+
+FALDGRUBER:
+
+* Ignorere effekt på langsigtet afkast

@@ -1,0 +1,44 @@
+TITEL:
+Kundeprofil analyse
+
+KILDER:
+- Ikke angivet
+
+BESKRIVELSE:
+Kundeprofil analyse bruges til at forstå kundens situation før der gives generel pensionsvejledning.
+
+REGLER:
+- Kunden bør vurderes ud fra alder, indkomst, arbejdssituation, helbred, opsparing, risikovillighed og mål.
+- AI’en må ikke give konkret personlig anbefaling uden tilstrækkelig kontekst.
+- Ved komplekse forhold bør kunden henvises til en pensionsrådgiver.
+
+BETINGELSER:
+- Kræver oplysninger om kundens situation.
+- Bruges som beslutningsstøtte, ikke som endelig individuel rådgivning.
+
+UDBETALING / FUNKTION:
+- Hjælper AI’en med at stille relevante opklarende spørgsmål.
+- Hjælper AI’en med at vælge relevante emner som skat, arv, risiko, opsparing eller offentlige pensioner.
+
+SKAT:
+- Kundens indkomst og skatteforhold kan påvirke valget mellem ratepension, livrente og aldersopsparing.
+- AI’en bør tage forbehold ved skattemæssige spørgsmål.
+
+FORDELE:
+- Giver mere målrettede svar.
+- Reducerer risikoen for generiske svar.
+- Hjælper med at identificere kundens vigtigste behov.
+
+ULEMPER:
+- Kræver flere oplysninger fra kunden.
+- Kan ikke erstatte individuel rådgivning.
+
+RÅDGIVNING:
+- Start med at afklare alder, indkomst, helbred, arbejdssituation, opsparing, risikovillighed og mål.
+- Giv generel vejledning og forklar, hvilke faktorer kunden bør undersøge nærmere.
+- Anbefal kontakt til rådgiver ved konkrete økonomiske valg.
+
+FALDGRUBER:
+- At antage kundens situation uden nok oplysninger.
+- At ignorere kundens mål.
+- At give for konkrete anbefalinger uden forbehold.

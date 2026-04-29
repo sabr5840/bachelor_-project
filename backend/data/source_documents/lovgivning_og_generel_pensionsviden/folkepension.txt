@@ -1,12 +1,48 @@
-Kilder:
-- https://www.borger.dk/pension-og-efterloen/Folkepension-oversigt
+TITEL:
+Folkepension
 
-Folkepension er en offentlig pension, som udbetales til borgere, når de når folkepensionsalderen.
+KILDER:
 
-Folkepension består typisk af et grundbeløb og et pensionstillæg. Pensionstillægget afhænger af indkomst og kan reduceres, hvis man har anden indkomst.
+* https://www.borger.dk/pension-og-efterloen/Folkepension-oversigt
 
-Størrelsen af folkepensionen afhænger blandt andet af, hvor længe man har boet i Danmark.
+BESKRIVELSE:
+Folkepension er en offentlig pension, som udbetales ved folkepensionsalderen og består af grundbeløb og pensionstillæg.
 
-Folkepension skal ses i sammenhæng med andre pensionsordninger, da samlet indkomst kan påvirke udbetalingen.
+REGLER:
 
-Ved rådgivning bør det understreges, at individuelle forhold kan have stor betydning for den endelige pension.
+* Afhænger af bopæl i Danmark
+* Indkomst påvirker pensionstillæg
+
+BETINGELSER:
+
+* Opnået folkepensionsalder
+* Bopælskrav
+
+UDBETALING / FUNKTION:
+
+* Månedlig udbetaling
+* Grundbeløb + tillæg
+
+SKAT:
+
+* Beskattes som personlig indkomst
+
+FORDELE:
+
+* Grundlæggende økonomisk sikkerhed
+* Livsvarig
+
+ULEMPER:
+
+* Reduceres ved høj indkomst
+* Begrænset niveau
+
+RÅDGIVNING:
+
+* Skal ses sammen med privat pension
+* Planlæg for at undgå modregning
+
+FALDGRUBER:
+
+* Høj privat pension → lavere tillæg
+* Manglende planlægning af udbetalinger

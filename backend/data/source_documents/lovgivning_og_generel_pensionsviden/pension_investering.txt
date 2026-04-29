@@ -1,21 +1,42 @@
-Pension og investering:
+TITEL:
+Pension og investering
 
-Høj risiko:
-- Potentielt højere afkast
-- Større udsving
+KILDER:
 
-Lav risiko:
-- Stabilt afkast
-- Lavere vækst
+* Ikke angivet
 
-Aktiv vs passiv:
-- Aktiv = forvalter styrer investeringer
-- Passiv = følger indeks
+BESKRIVELSE:
+Pensionsopsparing investeres for at skabe afkast over tid.
 
-ÅOP:
-- Årlige omkostninger
-- Lavere ÅOP = bedre langsigtet afkast
+REGLER:
 
-Tidshorisont:
-- Lang → højere risiko muligt
-- Kort → lavere risiko anbefales
+* Risiko vs afkast
+
+BETINGELSER:
+
+* Afhænger af tidshorisont
+
+UDBETALING / FUNKTION:
+
+* Afkast påvirker pension
+
+SKAT:
+
+* PAL-skat på afkast
+
+FORDELE:
+
+* Mulighed for vækst
+
+ULEMPER:
+
+* Risiko for tab
+
+RÅDGIVNING:
+
+* Lang tidshorisont → højere risiko muligt
+* Lav tid → lav risiko
+
+FALDGRUBER:
+
+* For høj risiko tæt på pension

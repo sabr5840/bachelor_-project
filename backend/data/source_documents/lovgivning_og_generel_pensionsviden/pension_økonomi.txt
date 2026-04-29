@@ -1,20 +1,42 @@
-Økonomi og pension:
+TITEL:
+Økonomi og pension
 
-Indkomst:
-- Påvirker hvor meget du kan spare op
+KILDER:
 
-Udgifter:
-- Bestemmer behov for pension
+* Ikke angivet
 
-Gæld:
-- Kan reducere økonomisk fleksibilitet
+BESKRIVELSE:
+Sammenhæng mellem økonomi og pensionsopsparing.
 
-Opsparing:
-- Supplerer offentlig pension
+REGLER:
 
-ÅOP:
-- Vigtigt ved valg af pensionsprodukt
+* Indkomst påvirker opsparing
 
-Tommelregel:
-- Stabil økonomi → flere muligheder
-- Presset økonomi → fokus på sikkerhed
+BETINGELSER:
+
+* Afhænger af økonomisk situation
+
+UDBETALING / FUNKTION:
+
+* Afhænger af opsparing
+
+SKAT:
+
+* Afhænger af indkomst og pensionstype
+
+FORDELE:
+
+* Økonomisk planlægning giver bedre pension
+
+ULEMPER:
+
+* Lav indkomst → lav opsparing
+
+RÅDGIVNING:
+
+* Skab balance mellem opsparing og forbrug
+* Prioritér pensionsopsparing tidligt
+
+FALDGRUBER:
+
+* Undervurdere behov for pension

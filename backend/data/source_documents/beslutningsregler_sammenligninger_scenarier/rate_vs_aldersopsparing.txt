@@ -1,0 +1,61 @@
+TITEL:
+Sammenligning: Ratepension vs Aldersopsparing
+
+KILDER:
+- Ikke angivet
+
+BESKRIVELSE:
+Ratepension og aldersopsparing er to pensionsformer med forskellige skattemæssige egenskaber og betydning for udbetaling, fleksibilitet og modregning.
+
+REGLER:
+- Ratepension giver fradrag ved indbetaling og beskattes ved udbetaling.
+- Aldersopsparing giver ikke fradrag ved indbetaling, men udbetales skattefrit.
+- Ratepension udbetales over en periode, typisk 10–30 år.
+- Aldersopsparing udbetales som engangsbeløb.
+- Ratepension kan påvirke modregning i folkepension.
+- Aldersopsparing påvirker som udgangspunkt ikke modregning.
+
+BETINGELSER:
+- Valget afhænger af kundens indkomst, skatteforhold, tid til pension og behov for fleksibilitet.
+- Kunden skal overholde gældende indbetalingslofter.
+- Kunden kan have flere pensionsordninger samtidig.
+
+UDBETALING / FUNKTION:
+- Ratepension giver løbende udbetaling over en valgt periode.
+- Aldersopsparing giver mulighed for engangsudbetaling.
+- Ratepension kan give stabil indkomst i pensionsårene.
+- Aldersopsparing giver fleksibilitet ved udbetaling.
+
+SKAT:
+- Ratepension: fradrag ved indbetaling, skat ved udbetaling.
+- Aldersopsparing: ingen fradrag, skattefri udbetaling.
+- Begge ordninger beskattes løbende med pensionsafkastskat (PAL-skat) af afkast.
+
+FORDELE:
+- Ratepension:
+  - Skattefradrag ved indbetaling
+  - Stabil indkomst i pensionsperioden
+- Aldersopsparing:
+  - Skattefri udbetaling
+  - Påvirker ikke modregning
+  - Stor fleksibilitet
+
+ULEMPER:
+- Ratepension:
+  - Beskattes ved udbetaling
+  - Kan påvirke modregning i folkepension
+- Aldersopsparing:
+  - Ingen fradrag ved indbetaling
+  - Lavere skattefordel for personer med høj indkomst
+
+RÅDGIVNING:
+- Ratepension er ofte relevant for kunder med høj indkomst og topskat.
+- Aldersopsparing er ofte relevant for kunder, der ønsker skattefri udbetaling og vil undgå modregning.
+- Det er ofte fordelagtigt at kombinere begge ordninger.
+- Kunden bør vurdere skat nu vs skat senere.
+
+FALDGRUBER:
+- At vælge kun ratepension og få høj skat ved udbetaling.
+- At ignorere modregning i folkepension.
+- At vælge aldersopsparing uden at overveje manglende fradrag.
+- At træffe valg uden at vurdere samlet pensionsstrategi.

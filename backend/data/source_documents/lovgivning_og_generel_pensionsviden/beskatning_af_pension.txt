@@ -1,14 +1,52 @@
-Kilder:
-- https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast
+TITEL:
+Beskatning af pension
 
-Pension beskattes forskelligt afhængigt af typen af pensionsordning.
+KILDER:
 
-Udbetalinger fra ratepension og livrente beskattes som personlig indkomst. Det betyder, at beløbet indgår i den samlede indkomst og beskattes efter gældende skattesatser.
+* https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast
 
-Aldersopsparing beskattes ikke ved udbetaling, men til gengæld er der som udgangspunkt ikke fradrag for indbetalinger.
+BESKRIVELSE:
+Pension beskattes forskelligt afhængigt af pensionsordningstype og tidspunkt for beskatning (indbetaling eller udbetaling).
 
-Beskatningen sker typisk automatisk via udbetalingen, hvor skat bliver trukket før beløbet udbetales til kunden.
+REGLER:
 
-Beskatning af pension skal ses i sammenhæng med øvrig indkomst, da det kan påvirke både skatteprocent og eventuelle tillæg til folkepension.
+* Ratepension og livrente beskattes ved udbetaling
+* Aldersopsparing beskattes ved indbetaling
+* PAL-skat på afkast
 
-Ved rådgivning bør det understreges, at den konkrete beskatning afhænger af kundens samlede økonomi og pensionsordning.
+BETINGELSER:
+
+* Afhænger af pensionsordningstype
+* Afhænger af kundens samlede indkomst
+
+UDBETALING / FUNKTION:
+
+* Skat trækkes automatisk ved udbetaling
+* Indgår i personlig indkomst
+
+SKAT:
+
+* Rate/livrente → indkomstskat
+* Aldersopsparing → skattefri udbetaling
+* PAL-skat på afkast
+
+FORDELE:
+
+* Fradrag kan give skattemæssig fordel nu
+* Mulighed for skatteoptimering
+
+ULEMPER:
+
+* Kan føre til høj beskatning ved udbetaling
+* Påvirker folkepension og tillæg
+
+RÅDGIVNING:
+
+* Vurder skat nu vs senere
+* Se pension i sammenhæng med øvrig indkomst
+* Tilpas strategi efter kundens skatteprocent
+
+FALDGRUBER:
+
+* For høj samlet indkomst ved pension → høj skat
+* Manglende planlægning → tab af tillæg

@@ -1,15 +1,42 @@
-UDBETALING AF FØRTIDSPENSION
+TITEL:
+Udbetaling af førtidspension
 
-- Starter efter godkendelse
-- Udbetales til NemKonto
-- Du får besked i e-Boks
+KILDER:
 
-Indhold:
-- Månedlig pension
-- Eventuelt engangsbeløb
+* Ikke angivet
 
-Du får også:
-- Pensionsoplysning i e-Boks
+BESKRIVELSE:
+Udbetaling sker efter godkendelse og indeholder typisk både månedlig pension og evt. engangsbeløb.
 
-Ændringer:
-- Ved ændringer → ny pensionsoplysning
+REGLER:
+
+* Starter først efter godkendelse
+
+BETINGELSER:
+
+* Godkendt ansøgning
+
+UDBETALING / FUNKTION:
+
+* Månedlig udbetaling
+* Information via e-Boks
+
+SKAT:
+
+* Månedlig pension beskattes
+
+FORDELE:
+
+* Stabil indkomst
+
+ULEMPER:
+
+* Ventetid
+
+RÅDGIVNING:
+
+* Informér om proces og timing
+
+FALDGRUBER:
+
+* Forventning om hurtig udbetaling

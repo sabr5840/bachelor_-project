@@ -1,17 +1,44 @@
-Førtidspension:
-- Helbredsbetinget
-- Kræver godkendelse
-- Varig løsning
+TITEL:
+Sammenligning af pensionsordninger
 
-Seniorpension:
-- Delvist arbejdsevne
-- Tæt på pensionsalder
+KILDER:
 
-Tidlig pension:
-- Baseret på antal år arbejdet
-- Ingen helbredsvurdering
+* Ikke angivet
 
-Forskelle:
-- Førtid = sygdom
-- Senior = nedsat arbejdsevne
-- Tidlig = anciennitet
+BESKRIVELSE:
+Sammenligning mellem førtidspension, seniorpension og tidlig pension.
+
+REGLER:
+
+* Førtid: helbred
+* Senior: arbejdsevne
+* Tidlig: anciennitet
+
+BETINGELSER:
+
+* Afhænger af individuel situation
+
+UDBETALING / FUNKTION:
+
+* Alle giver offentlig pension
+
+SKAT:
+
+* Beskattes som indkomst
+
+FORDELE:
+
+* Mulighed for tidlig tilbagetrækning
+
+ULEMPER:
+
+* Forskellige krav gør det komplekst
+
+RÅDGIVNING:
+
+* Vælg ud fra helbred vs arbejdsliv
+* Sammenlign før ansøgning
+
+FALDGRUBER:
+
+* Forkert valg af ordning

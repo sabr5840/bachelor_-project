@@ -1,25 +1,45 @@
-Fordringer:
+TITEL:
+Fordringer
 
-Definition:
-- Et krav på penge (fx gæld)
+KILDER:
 
-Kan:
-- Sælges
-- Pantsættes
+* Ikke angivet
 
-Indsigelser:
-- Afhænger af typen
+BESKRIVELSE:
+En fordring er et krav på betaling fra en debitor til en kreditor.
 
-Typer:
-- Simpel → alle indsigelser bevares
-- Omsætningsbeskyttet → svage indsigelser bortfalder
+REGLER:
 
-Stærke indsigelser:
-- Kan altid bruges (fx svig)
+* Kan overdrages
+* Kan pantsættes
 
-Betaling:
-- Skal ske til den med legitimation
+BETINGELSER:
 
-Vigtigt:
-- Kreditor garanterer for kravet findes
-- Ikke for betalingsevne
+* Gyldigt krav skal eksistere
+
+UDBETALING / FUNKTION:
+
+* Betaling skal ske til legitim kreditor
+
+SKAT:
+
+* Afhænger af kontekst
+
+FORDELE:
+
+* Kan omsættes
+* Kan bruges som sikkerhed
+
+ULEMPER:
+
+* Risiko for manglende betaling
+
+RÅDGIVNING:
+
+* Vurder kreditrisiko
+* Undersøg type af fordring
+
+FALDGRUBER:
+
+* Manglende kendskab til indsigelser
+* Køb af usikre fordringer

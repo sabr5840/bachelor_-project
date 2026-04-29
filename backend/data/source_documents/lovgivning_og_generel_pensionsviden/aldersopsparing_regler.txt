@@ -1,14 +1,55 @@
-Kilder:
-- https://skat.dk/borger/pension-og-efterloen/aldersopsparing-og-aldersforsikring
+TITEL:
+Aldersopsparing
 
-Aldersopsparing er en pensionsordning, hvor indbetalinger ikke giver fradrag i skat.
+KILDER:
 
-Til gengæld er udbetalinger fra aldersopsparing skattefri, hvilket adskiller den fra ratepension og livrente.
+* https://skat.dk/borger/pension-og-efterloen/aldersopsparing-og-aldersforsikring
 
-Der er loft over, hvor meget der kan indbetales årligt på en aldersopsparing. Loftet afhænger blandt andet af alder.
+BESKRIVELSE:
+Aldersopsparing er en pensionsordning, hvor indbetalinger sker uden fradrag i skat, men hvor udbetalinger til gengæld er skattefri. Ordningen adskiller sig fra ratepension og livrente ved, at beskatningen sker før indbetaling fremfor ved udbetaling.
 
-Aldersopsparing kan udbetales, når pensionsudbetalingsalderen nås, og den kan i nogle tilfælde udbetales som et engangsbeløb.
+REGLER:
 
-Ordningen kan være relevant for personer, der ønsker fleksibilitet og skattefri udbetaling senere i livet.
+* Der er et årligt loft for indbetaling
+* Loftet afhænger af alder og afstand til pensionsalder
+* Gælder samlet på tværs af banker og pensionsselskaber
 
-Ved rådgivning bør det vurderes, hvordan aldersopsparing indgår i den samlede pensionsstrategi.
+BETINGELSER:
+
+* Kan oprettes som privat pensionsordning
+* Udbetaling kræver opnået pensionsudbetalingsalder
+
+UDBETALING / FUNKTION:
+
+* Kan udbetales som engangsbeløb
+* Kan udbetales fra pensionsudbetalingsalderen
+* Kan i nogle tilfælde udbetales før, afhængigt af regler
+
+SKAT:
+
+* Ingen fradrag ved indbetaling
+* Udbetaling er skattefri
+* PAL-skat på afkast under opsparing
+
+FORDELE:
+
+* Skattefri udbetaling
+* Fleksibel udbetaling (engangsbeløb)
+* Påvirker ikke modregning i folkepension
+
+ULEMPER:
+
+* Ingen fradrag ved indbetaling
+* Mindre fordelagtig for topskatteydere
+
+RÅDGIVNING:
+
+* Velegnet som supplement til ratepension/livrente
+* God for personer der ønsker skattefri udbetaling senere
+* Bør vurderes ift. samlet pensionsstrategi og skatteniveau
+
+FALDGRUBER:
+
+* Overskridelse af loft → afgift
+* Manglende forståelse af skat nu vs senere
+* Kan være ineffektiv hvis kunden betaler topskat

@@ -1,24 +1,43 @@
-Valg af pension afhænger af:
+TITEL:
+Valg af pension
 
-Helbred:
-- Dårligt helbred → førtidspension eller seniorpension
+KILDER:
 
-Alder:
-- Tæt på pensionsalder → tidlig pension eller seniorpension
+* Ikke angivet
 
-Arbejdshistorik:
-- Mange år → tidlig pension
-- Kortere → andre ordninger
+BESKRIVELSE:
+Guide til valg af pensionsordning baseret på individuelle forhold.
 
-Økonomi:
-- Lav opsparing → offentlig pension vigtig
-- Høj opsparing → mere fleksibilitet
+REGLER:
 
-Arbejdsevne:
-- Kan arbejde delvist → seniorpension
-- Kan ikke arbejde → førtidspension
+* Valg afhænger af helbred, alder og økonomi
 
-Tommelregel:
-- Tidlig pension = mange år arbejdet
-- Seniorpension = fysisk/psykisk nedslidning
-- Førtidspension = varigt ude af stand til arbejde
+BETINGELSER:
+
+* Individuel vurdering
+
+UDBETALING / FUNKTION:
+
+* Afhænger af valgt ordning
+
+SKAT:
+
+* Afhænger af pensionsform
+
+FORDELE:
+
+* Hjælper med beslutningstagning
+
+ULEMPER:
+
+* Kræver korrekt vurdering
+
+RÅDGIVNING:
+
+* Helbred → førtid/senior
+* Arbejdsliv → tidlig pension
+* Økonomi → opsparing vigtig
+
+FALDGRUBER:
+
+* Ignorere økonomi eller helbred

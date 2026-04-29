@@ -1,12 +1,43 @@
-Kilder:
-- https://www.pensam.dk/om_pensam/hvem_er_vi/pensams-organisation/investering :contentReference[oaicite:0]{index=0}
+TITEL:
+Investering og afkast (PenSam)
 
-Investering
+KILDER:
 
-PenSam har et investeringsområde, der er ansvarligt for at forvalte den samlede investeringsportefølje.
+* https://www.pensam.dk
 
-Investeringerne omfatter både likvide aktiver og alternative investeringer.
+BESKRIVELSE:
+PenSam investerer pensionsmidler for at skabe afkast til medlemmerne.
 
-Investeringsområdet arbejder også med at sikre, at PenSams politikker for bæredygtighed indgår i investeringsforvaltningen.
+REGLER:
 
-Organisationen er opbygget med en investeringsdirektør og flere underliggende afdelinger.
+* Investering styres centralt
+* Fokus på risiko og bæredygtighed
+
+BETINGELSER:
+
+* Afhænger af pensionsordning
+
+UDBETALING / FUNKTION:
+
+* Afkast påvirker pensionens størrelse
+
+SKAT:
+
+* PAL-skat på afkast
+
+FORDELE:
+
+* Professionel investering
+* Mulighed for højere pension
+
+ULEMPER:
+
+* Markedsrisiko
+
+RÅDGIVNING:
+
+* Forklar kunden forskel på garanti vs markedsrente
+
+FALDGRUBER:
+
+* Misforståelse af risiko

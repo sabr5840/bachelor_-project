@@ -1,14 +1,47 @@
-Eksempel 1:
-Person med kronisk sygdom → førtidspension
+TITEL:
+Pensionsscenarier (rådgivning)
 
-Eksempel 2:
-Person med fysisk hårdt arbejde i 30+ år → seniorpension
+KILDER:
 
-Eksempel 3:
-Person med 44 års arbejde → tidlig pension
+* Ikke angivet
 
-Eksempel 4:
-Person med god opsparing → kan supplere offentlig pension
+BESKRIVELSE:
+Typiske kundescenarier bruges til at forstå og rådgive om pensionsvalg.
 
-Eksempel 5:
-Person arbejder stadig → kan kombinere arbejde og pension
+REGLER:
+
+* Ikke faste regler → vejledende
+
+BETINGELSER:
+
+* Afhænger af kundens situation
+
+UDBETALING / FUNKTION:
+
+* Varierer
+
+SKAT:
+
+* Afhænger af valg
+
+FORDELE:
+
+* Hjælper AI med rådgivning
+
+ULEMPER:
+
+* Ikke universelle løsninger
+
+RÅDGIVNING:
+
+* Match kundens situation med scenarie
+
+FALDGRUBER:
+
+* Bruge scenarier som facit
+
+EKSEMPLER:
+
+* Nedslidt → seniorpension
+* Lang karriere → tidlig pension
+* Høj opsparing → privat pension vigtig

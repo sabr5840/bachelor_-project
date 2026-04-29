@@ -1,14 +1,54 @@
-Kilder:
-- https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/aldersopsparing
+TITEL:
+Aldersopsparing (PenSam)
 
-Aldersopsparing er en pensionsordning, hvor der ikke er fradrag for indbetaling, men hvor udbetalingen til gengæld er skattefri.
+KILDER:
 
-Skatten betales i stedet ved indbetalingstidspunktet. Det betyder, at indbetaling til aldersopsparing kan øge den skattepligtige indkomst i dag.
+* https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/aldersopsparing
 
-Der er et loft for, hvor meget der må indbetales årligt. Loftet gælder samlet for aldersopsparing og aldersforsikring, også hvis man indbetaler i flere pensionsselskaber eller banker. Loftet er højere, når man nærmer sig pensionsalderen.
+BESKRIVELSE:
+Aldersopsparing er en pensionsordning uden fradrag ved indbetaling, men med skattefri udbetaling. I PenSam anvendes den typisk som supplement til andre pensionsordninger.
 
-Aldersopsparingen kan typisk udbetales fra omkring tre år før folkepensionsalderen, og den kan udbetales, selvom man fortsat er i arbejde.
+REGLER:
 
-I PenSam udbetales aldersopsparing som et engangsbeløb. Hvis opsparingen ikke er udbetalt inden dødsfald, vil den blive udbetalt til efterladte.
+* Årligt indbetalingsloft (fælles på tværs af selskaber)
+* Loftet er højere tæt på pensionsalder
+* Gælder samlet inkl. aldersforsikring
 
-Valget mellem aldersopsparing og andre pensionsordninger afhænger af den enkeltes økonomiske situation. For personer, der betaler topskat, kan det være mindre fordelagtigt at indbetale til aldersopsparing, da der ikke opnås fradrag.
+BETINGELSER:
+
+* Kan oprettes via pensionsordning
+* Kan indbetales via arbejdsgiver eller privat
+
+UDBETALING / FUNKTION:
+
+* Udbetales som engangsbeløb i PenSam
+* Kan udbetales ca. 3 år før folkepension
+* Kan udbetales selv hvis man stadig arbejder
+
+SKAT:
+
+* Ingen fradrag ved indbetaling
+* Skattefri udbetaling
+* PAL-skat på afkast
+
+FORDELE:
+
+* Skattefri udbetaling
+* Fleksibel brug af pengene
+* Ingen modregning i folkepension
+
+ULEMPER:
+
+* Ingen fradrag
+* Mindre fordelagtig ved topskat
+
+RÅDGIVNING:
+
+* God til kunder der vil undgå modregning
+* Suppler ratepension/livrente
+* Overvej kundens skatteniveau nu vs pension
+
+FALDGRUBER:
+
+* Indbetale for meget → afgift
+* Forkert valg ift. topskat

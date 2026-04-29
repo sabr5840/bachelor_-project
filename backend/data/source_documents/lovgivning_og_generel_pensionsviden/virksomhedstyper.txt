@@ -1,29 +1,48 @@
-Virksomhedstyper:
+TITEL:
+Virksomhedstyper
 
-Personlig virksomhed:
-- Enkeltmandsvirksomhed
-- Ubegrænset hæftelse
+KILDER:
 
-Interessentskab (I/S):
-- Flere ejere
-- Solidarisk hæftelse
+* Ikke angivet
 
-ApS:
-- Begrænset hæftelse
-- Krav om kapital
+BESKRIVELSE:
+Forskellige virksomhedstyper har forskellig hæftelse, risiko og kapitalbehov.
 
-A/S:
-- Stor kapital
-- Begrænset hæftelse
+REGLER:
 
-K/S:
-- Blandet hæftelse
+* Hæftelse afhænger af virksomhedsform
 
-Begreber:
-- Solidarisk hæftelse = hæfter for hele gælden
-- Begrænset hæftelse = kun indskud
+BETINGELSER:
 
-Valg afhænger af:
-- Risiko
-- Kapital
-- størrelse
+* Valg afhænger af risiko og økonomi
+
+UDBETALING / FUNKTION:
+
+* Ikke relevant
+
+SKAT:
+
+* Afhænger af virksomhedsform
+
+FORDELE:
+
+* Mulighed for tilpasning til behov
+
+ULEMPER:
+
+* Forkert valg kan give høj risiko
+
+RÅDGIVNING:
+
+* Høj risiko → vælg begrænset hæftelse (ApS/A/S)
+* Lav risiko → personlig virksomhed kan være nok
+
+FALDGRUBER:
+
+* Undervurdere hæftelse
+* Vælge forkert struktur
+
+EKSTRA:
+
+* Personlig virksomhed: ubegrænset hæftelse
+* ApS/A/S: begrænset hæftelse

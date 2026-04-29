@@ -1,0 +1,51 @@
+TITEL:
+Rådgivningsscenarier
+
+KILDER:
+- Ikke angivet
+
+BESKRIVELSE:
+Rådgivningsscenarier bruges til at hjælpe AI’en med at koble kundens situation til relevante pensionsmuligheder.
+
+REGLER:
+- Scenarier er vejledende og må ikke behandles som facit.
+- Kundens konkrete situation skal altid vurderes individuelt.
+- Ved personlige økonomiske valg skal AI’en tage forbehold og anbefale kontakt til rådgiver.
+
+BETINGELSER:
+- Scenarier kræver oplysninger om alder, indkomst, helbred, arbejdssituation, opsparing og mål.
+- Scenarier bruges som støtte til generel vejledning.
+
+UDBETALING / FUNKTION:
+- Bruges til at give eksempler på typiske pensionsvalg.
+- Hjælper AI’en med at forklare, hvorfor en løsning kan være relevant.
+
+SKAT:
+- Skat afhænger af pensionsordning og kundens samlede indkomst.
+- Ratepension og livrente beskattes typisk ved udbetaling.
+- Aldersopsparing er som udgangspunkt skattefri ved udbetaling.
+
+FORDELE:
+- Gør rådgivningen mere konkret.
+- Hjælper AI’en med at svare praksisnært.
+- Kan bruges til at forklare forskellige pensionsvalg.
+
+ULEMPER:
+- Scenarier kan ikke dække alle situationer.
+- Der er risiko for overgeneralisering.
+
+RÅDGIVNING:
+- Match kundens situation med nærmeste scenarie.
+- Forklar altid, at scenariet kun er vejledende.
+- Stil opklarende spørgsmål, hvis kundens situation er uklar.
+
+FALDGRUBER:
+- At bruge scenarier som endelige anbefalinger.
+- At overse individuelle forhold.
+- At give personlig rådgivning uden nok oplysninger.
+
+EKSEMPLER:
+- Kunde på 60 år med høj indkomst kan have gavn af at undersøge ratepension og livrente.
+- Kunde på 58 år, der er nedslidt og har lav opsparing, kan undersøge seniorpension.
+- Kunde på 45 år med stabil indkomst og lang tid til pension kan overveje højere investeringsrisiko.
+- Samlevende uden ægteskab bør undersøge begunstigelse.

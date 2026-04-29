@@ -1,33 +1,44 @@
-Konkurs:
+TITEL:
+Konkurs
 
-Formål:
-- Sælge skyldners aktiver
-- Fordele pengene ligeligt mellem kreditorer
+KILDER:
 
-Betingelser:
-- Insolvens (kan ikke betale regninger)
-- Kreditor har krav
-- Interesse i konkurs
+* Ikke angivet
 
-Vigtige begreber:
+BESKRIVELSE:
+Konkurs er en juridisk proces, hvor en insolvent skyldners aktiver fordeles mellem kreditorer.
 
-Fristdag:
-- Når konkurs begæres
+REGLER:
 
-Dekretdag:
-- Når konkurs starter
-- Skyldner mister kontrol
+* Prioritetsorden
+* Kurator styrer processen
 
-Prioritet:
-- Først: kurator, lønkrav
-- Dernæst: simple kreditorer
+BETINGELSER:
 
-Panthavere:
-- Har sikkerhed (separatister)
+* Insolvens
+* Krav fra kreditor
 
-Urådighed:
-- Skyldner må ikke disponere over aktiver
+UDBETALING / FUNKTION:
 
-Konsekvens:
-- Virksomhed lukker
-- Personlig gæld kan bestå
+* Aktiver realiseres
+
+SKAT:
+
+* Kan påvirke økonomi indirekte
+
+FORDELE:
+
+* Retfærdig fordeling
+
+ULEMPER:
+
+* Tab for kreditorer
+* Lukning af virksomhed
+
+RÅDGIVNING:
+
+* Undgå via økonomisk planlægning
+
+FALDGRUBER:
+
+* For sen handling ved økonomiske problemer

@@ -1,24 +1,43 @@
-Gældsbreve:
+TITEL:
+Gældsbreve
 
-Typer:
-- Simpelt gældsbrev:
-  Skyldner bevarer alle indsigelser mod ny kreditor
+KILDER:
 
-- Omsætningsgældsbrev:
-  Skyldner mister svage indsigelser
-  Bevarer stærke (fx tvang, svig)
+* Ikke angivet
 
-- Fakturakrav:
-  Behandles som simpelt gældsbrev
+BESKRIVELSE:
+Et gældsbrev er en skriftlig erklæring om gæld mellem skyldner og kreditor.
 
-Pant:
-- Kreditor kan tage pant i skyldners ejendele
-- Ved manglende betaling → tvangsauktion
+REGLER:
 
-Vigtigt:
-- Omsætningsgældsbreve er mere værd ved salg
-- Simpelt gældsbrev beskytter skyldner mest
+* Simpelt vs omsætningsgældsbrev
+* Rettigheder afhænger af typen
 
-Kreditorskift:
-- Gæld kan sælges videre til ny kreditor
-- Skyldners rettigheder afhænger af typen
+BETINGELSER:
+
+* Gyldig aftale
+
+UDBETALING / FUNKTION:
+
+* Betaling iht. aftale
+
+SKAT:
+
+* Ikke direkte relevant
+
+FORDELE:
+
+* Dokumentation for gæld
+
+ULEMPER:
+
+* Risiko for misligholdelse
+
+RÅDGIVNING:
+
+* Vælg type afhængigt af risiko
+* Omsætningsgældsbrev → bedre ved salg
+
+FALDGRUBER:
+
+* Manglende forståelse af indsigelser

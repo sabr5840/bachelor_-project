@@ -1,21 +1,43 @@
-Kilder:
-- https://www.pensam.dk/pension/pension-i-pensam/samle_pension
-
+TITEL:
 Samle pension
 
-Hvis du har haft job i flere brancher, kan du have pension i flere selskaber.
+KILDER:
 
-Hos PenSam er det muligt at samle dine pensioner, hvis du har pension i andre selskaber. Det kan give bedre overblik og gøre det billigere, fordi du undgår at betale omkostninger til flere selskaber.
+* https://www.pensam.dk/pension/pension-i-pensam/samle_pension
 
-PenSam kan undersøge, om du har pensioner, som med fordel kan samles hos dem, og kan hjælpe med rådgivning og det praktiske.
+BESKRIVELSE:
+Mulighed for at samle pensioner i ét selskab for bedre overblik.
 
-Du kan også selv samle dine pensioner, men det er vigtigt først at undersøge, om det er den rigtige løsning i din situation.
+REGLER:
 
-I nogle tilfælde bør du kontakte PenSam før du samler, fx hvis:
-- du er tæt på pensionsalderen
-- du er ramt af sygdom
-- du er i fleksjob
-- du har særlige rettigheder eller garantier
-- din tidligere pension har særlige vilkår
+* Pension kan flyttes
 
-Det er som regel en fordel at samle sin pension, men der kan være undtagelser.
+BETINGELSER:
+
+* Afhænger af vilkår
+
+UDBETALING / FUNKTION:
+
+* Samlet opsparing
+
+SKAT:
+
+* Ingen direkte skat ved flytning
+
+FORDELE:
+
+* Overblik
+* Lavere omkostninger
+
+ULEMPER:
+
+* Risiko for tab af vilkår
+
+RÅDGIVNING:
+
+* Undersøg før flytning
+* Særligt vigtigt ved sygdom eller alder
+
+FALDGRUBER:
+
+* Flytte uden analyse

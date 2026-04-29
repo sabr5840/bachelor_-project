@@ -1,14 +1,49 @@
-Kilder:
-- https://www.borger.dk/pension-og-efterloen/ATP-Livslang-Pension
+TITEL:
+ATP (Arbejdsmarkedets Tillægspension)
 
-ATP Livslang Pension (Arbejdsmarkedets Tillægspension) er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark.
+KILDER:
 
-Der indbetales automatisk til ATP gennem arbejde, og bidraget afhænger af arbejdstid.
+* https://www.borger.dk/pension-og-efterloen/ATP-Livslang-Pension
 
-ATP udbetales som en livsvarig pension, når folkepensionsalderen nås.
+BESKRIVELSE:
+ATP er en obligatorisk pensionsordning for de fleste lønmodtagere i Danmark og fungerer som et supplement til folkepensionen.
 
-Udbetalingen afhænger af, hvor meget der er indbetalt gennem arbejdslivet.
+REGLER:
 
-ATP fungerer som et supplement til folkepension og andre pensionsordninger.
+* Obligatorisk for de fleste lønmodtagere
+* Bidrag afhænger af arbejdstid
 
-Ved rådgivning bør ATP indgå som en del af det samlede pensionsoverblik.
+BETINGELSER:
+
+* Automatisk indbetaling via arbejdsgiver
+* Optjening sker gennem arbejdslivet
+
+UDBETALING / FUNKTION:
+
+* Livsvarig månedlig udbetaling
+* Starter ved folkepensionsalder
+
+SKAT:
+
+* Beskattes som personlig indkomst ved udbetaling
+
+FORDELE:
+
+* Livsvarig sikker indkomst
+* Automatisk opsparing
+* Lav risiko
+
+ULEMPER:
+
+* Begrænset størrelse
+* Ingen fleksibilitet i udbetaling
+
+RÅDGIVNING:
+
+* Skal altid indgå i samlet pensionsoverblik
+* Kan ikke vælges fra → fokus bør være på supplement
+
+FALDGRUBER:
+
+* Undervurdering af betydning i samlet økonomi
+* Manglende overblik over samlet pension

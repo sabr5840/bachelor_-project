@@ -1,25 +1,44 @@
-FØRTIDSPENSION – PENSAM
+TITEL:
+Førtidspension (PenSam)
 
-Betingelser:
-- Offentlig førtidspension
-- Seniorpension
-- Eller forlængede sygedagpenge (alvorlig sygdom)
+KILDER:
 
-Proces:
-- Ansøg via Min Pension eller kontakt PenSam
-- Behandlingstid: ca. 1 måned efter alle oplysninger
+* Ikke angivet
 
-Udbetaling:
-- Månedlig + evt. engangsbeløb
-- Udbetales til NemKonto
+BESKRIVELSE:
+Førtidspension i PenSam er en udbetaling ved varigt nedsat arbejdsevne.
 
-Skat:
-- Månedlig pension beskattes
-- Engangsbeløb er skattefrit
+REGLER:
 
-Vigtigt:
-- Du skal sende dokumentation (læge, kommune osv.)
-- Udbetaling starter efter godkendelse
+* Kræver offentlig godkendelse eller tilsvarende
 
-Begrænsninger:
-- Ingen udbetaling hvis stadig i behandling i det offentlige system
+BETINGELSER:
+
+* Førtidspension, seniorpension eller alvorlig sygdom
+
+UDBETALING / FUNKTION:
+
+* Månedlig pension + evt. engangsbeløb
+* Udbetales til NemKonto
+
+SKAT:
+
+* Månedlig pension beskattes
+* Engangsbeløb ofte skattefrit
+
+FORDELE:
+
+* Økonomisk sikkerhed ved sygdom
+
+ULEMPER:
+
+* Kræver dokumentation
+
+RÅDGIVNING:
+
+* Hjælp kunden med dokumentation
+* Afstem forventninger til proces
+
+FALDGRUBER:
+
+* Manglende dokumentation → afslag

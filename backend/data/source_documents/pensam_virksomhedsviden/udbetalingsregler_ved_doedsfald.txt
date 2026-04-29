@@ -1,16 +1,43 @@
-Kilder:
-- https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde
-
+TITEL:
 Udbetaling ved dødsfald
 
-Hvis en person dør inden folkepensionsalderen, vil der som hovedregel ske en udbetaling fra pensionsordningen til efterladte.
+KILDER:
 
-Udbetalingen afhænger af pensionsordningens indhold, herunder alder, indbetaling og hvilke dækninger der er knyttet til ordningen.
+* https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde
 
-Mange pensionsordninger indeholder en forsikring ved dødsfald, som kan blive udbetalt til efterladte. Forsikringen bortfalder typisk, hvis der ikke længere indbetales til pensionen i en længere periode.
+BESKRIVELSE:
+Ved dødsfald kan pensionsordninger udbetales til efterladte afhængigt af ordningstype og dækning.
 
-I nogle tilfælde kan der også være ret til en ægtefælle- eller samleverpension, som udbetales løbende til efterladte.
+REGLER:
 
-Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte ved dødsfald. Derimod kan opsparing til ratepension eller engangsudbetaling normalt blive udbetalt til efterladte.
+* Afhænger af pensionsordning
+* Begunstigelse afgør modtager
 
-Udbetalingen ved dødsfald følger som udgangspunkt reglerne i pensionsordningen og afhænger af, hvilke dækninger og opsparingsformer den enkelte kunde har.
+BETINGELSER:
+
+* Aktiv pensionsordning eller opsparing
+
+UDBETALING / FUNKTION:
+
+* Engangsbeløb eller løbende pension til efterladte
+
+SKAT:
+
+* Kan være afgiftspligtigt
+
+FORDELE:
+
+* Økonomisk sikkerhed for familie
+
+ULEMPER:
+
+* Ikke alle ordninger udbetales (fx livrente)
+
+RÅDGIVNING:
+
+* Tjek begunstigelse
+* Overvej kombination af ordninger
+
+FALDGRUBER:
+
+* Tro at alle pensioner går til arvinger

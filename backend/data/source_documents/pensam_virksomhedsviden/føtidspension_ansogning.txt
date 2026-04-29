@@ -1,19 +1,43 @@
-ANSØGNING OM FØRTIDSPENSION
+TITEL:
+Ansøgning om førtidspension
 
-Trin:
-1. Indsend ansøgning
-2. Send dokumentation
-3. PenSam vurderer
-4. Afgørelse sendes i e-Boks
+KILDER:
 
-Dokumenter:
-- Afgørelse fra kommune
-- Lægeoplysninger
-- Samtykke
-- Bankoplysninger
+* Ikke angivet
 
-Tidsramme:
-- Ca. 1 måned (kan være længere)
+BESKRIVELSE:
+Proces for ansøgning om førtidspension i PenSam.
 
-Hvis mangler info:
-- Du får brev om yderligere dokumentation
+REGLER:
+
+* Kræver dokumentation
+
+BETINGELSER:
+
+* Offentlig afgørelse
+* Lægeoplysninger
+
+UDBETALING / FUNKTION:
+
+* Starter efter godkendelse
+
+SKAT:
+
+* Normal beskatning
+
+FORDELE:
+
+* Mulighed for økonomisk støtte
+
+ULEMPER:
+
+* Tidskrævende proces
+
+RÅDGIVNING:
+
+* Hjælp med dokumentation
+* Sæt realistiske forventninger
+
+FALDGRUBER:
+
+* Manglende dokumentation → forsinkelse

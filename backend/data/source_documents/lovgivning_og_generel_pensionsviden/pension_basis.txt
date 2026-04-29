@@ -1,15 +1,41 @@
-Hvad er pension:
-Pension er en opsparing, der udbetales, når du stopper med at arbejde.
+TITEL:
+Pension - Grundlæggende
 
-Typer af pension:
-- Folkepension (offentlig)
-- Arbejdsmarkedspension (fx PenSam)
-- Privat pension
+KILDER:
 
-Formål:
-At sikre indkomst efter arbejdslivet.
+* Ikke angivet
 
-Supplerende:
-- Tidlig pension (Arne-pension)
-- Seniorpension
-- Førtidspension
+BESKRIVELSE:
+Pension er opsparing til indkomst efter arbejdslivet.
+
+REGLER:
+
+* Forskellige ordninger
+
+BETINGELSER:
+
+* Opsparing gennem arbejde eller privat
+
+UDBETALING / FUNKTION:
+
+* Månedlig eller engangs
+
+SKAT:
+
+* Afhænger af type
+
+FORDELE:
+
+* Økonomisk sikkerhed
+
+ULEMPER:
+
+* Kompleksitet
+
+RÅDGIVNING:
+
+* Kombiner flere pensionsformer
+
+FALDGRUBER:
+
+* For lav opsparing

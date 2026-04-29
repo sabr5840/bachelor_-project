@@ -1,15 +1,45 @@
-Modregning:
+TITEL:
+Modregning i pension
 
-Andre indtægter kan påvirke pension:
-- Pension fra arbejde
-- Opsparing
-- Indkomst
+KILDER:
 
-Bundfradrag:
-- Fx 100.000 kr før modregning
+* Ikke angivet
 
-Konsekvens:
-- Høj indkomst → lavere offentlig pension
+BESKRIVELSE:
+Offentlige pensioner kan blive reduceret (modregnet), hvis man har anden indkomst.
 
-Vigtigt:
-- Samlet økonomi afgør udbetaling
+REGLER:
+
+* Pensionstillæg reduceres ved høj indkomst
+* Bundfradrag gælder
+
+BETINGELSER:
+
+* Afhænger af samlet indkomst
+* Gælder især folkepension
+
+UDBETALING / FUNKTION:
+
+* Højere indkomst → lavere offentlig pension
+
+SKAT:
+
+* Indirekte via samlet indkomst
+
+FORDELE:
+
+* Sikrer målretning af offentlig støtte
+
+ULEMPER:
+
+* Straffer høj opsparing
+
+RÅDGIVNING:
+
+* Planlæg udbetalingstidspunkt
+* Kombiner pensionstyper strategisk
+
+FALDGRUBER:
+
+* For høj udbetaling i samme år → tab af tillæg
+* Manglende overblik over samlet indkomst

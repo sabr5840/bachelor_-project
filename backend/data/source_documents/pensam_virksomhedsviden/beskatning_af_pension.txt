@@ -1,20 +1,45 @@
-Kilder:
-- https://www.pensam.dk/pension/diverse/lp_skattekoder
+TITEL:
+Beskatning af pension (PenSam)
 
-Beskatning af pension
+KILDER:
 
-Beskatning af pension afhænger af typen af pensionsordning og sker enten ved indbetaling eller ved udbetaling.
+* https://www.pensam.dk/pension/diverse/lp_skattekoder
 
-For pensionsordninger med løbende udbetalinger, som alderspension, førtidspension og ægtefællepension, gives der som udgangspunkt fradrag ved indbetaling. Det betyder, at indbetaling ikke beskattes, men til gengæld skal der betales indkomstskat af de løbende udbetalinger.
+BESKRIVELSE:
+Pension beskattes enten ved indbetaling eller udbetaling afhængigt af ordningstype.
 
-For ratepension gælder samme princip. Indbetalinger inden for et fastsat loft giver fradrag, og udbetaling beskattes som almindelig indkomst. Ved udbetaling til efterladte kan der i visse tilfælde blive pålagt en afgift.
+REGLER:
 
-For ordninger uden fradragsret, som aldersopsparing og aldersforsikring, beskattes indbetalingen i stedet. Det betyder, at der ikke gives fradrag ved indbetaling, men til gengæld er udbetaling som udgangspunkt skattefri.
+* Fradragsordninger → skat ved udbetaling
+* Ikke-fradragsordninger → skat ved indbetaling
 
-Nogle forsikringsordninger, som gruppelivsforsikring og dækning ved kritisk sygdom, beskattes ved indbetaling, men udbetales skattefrit til kunden eller efterladte.
+BETINGELSER:
 
-Overordnet kan pensionsbeskatning opdeles i to principper:
-- fradrag ved indbetaling og beskatning ved udbetaling
-- beskatning ved indbetaling og skattefri udbetaling
+* Afhænger af pensionsprodukt
 
-Hvilken model der gælder, afhænger af den konkrete pensionsordning.
+UDBETALING / FUNKTION:
+
+* Skat trækkes automatisk ved udbetaling
+
+SKAT:
+
+* Rate/livrente → indkomstskat
+* Aldersopsparing → skattefri udbetaling
+* Forsikringer → ofte skattefri udbetaling
+
+FORDELE:
+
+* Fleksibilitet i skatteplanlægning
+
+ULEMPER:
+
+* Kompleksitet
+
+RÅDGIVNING:
+
+* Balancér skat nu vs senere
+* Tilpas efter kundens indkomst
+
+FALDGRUBER:
+
+* Forkert kombination → høj skat samlet

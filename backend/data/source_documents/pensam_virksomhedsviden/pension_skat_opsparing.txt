@@ -1,27 +1,44 @@
-PENSION I PENSAM – SKAT OG OPSPARING
+TITEL:
+Pension – skat og opsparing (PenSam)
 
-Typer:
-- Aldersopsparing
-- Ratepension
-- Livsvarig pension
+KILDER:
 
-Aldersopsparing:
-- Ingen fradrag
-- Skattefri udbetaling
+* Ikke angivet
 
-Ratepension:
-- Fradrag nu
-- Skat ved udbetaling
+BESKRIVELSE:
+Forskellige pensionsformer har forskellig skattemæssig behandling.
 
-Loft:
-- Ca. 9.900 kr/år
-- Op til 64.200 kr hvis tæt på pension
+REGLER:
 
-Overskridelse:
-- 20–40% afgift
+* Rate → fradrag nu, skat senere
+* Aldersopsparing → skat nu, skattefri senere
 
-Afkast:
-- PAL-skat ca. 15,3%
+BETINGELSER:
 
-Vigtigt:
-- Valg = skat nu vs senere
+* Afhænger af produkt
+
+UDBETALING / FUNKTION:
+
+* Afhænger af type
+
+SKAT:
+
+* PAL-skat ca. 15,3%
+* Indkomstskat ved udbetaling
+
+FORDELE:
+
+* Fleksibel skatteplanlægning
+
+ULEMPER:
+
+* Kompleksitet
+
+RÅDGIVNING:
+
+* Balancér skat nu vs senere
+* Tilpas efter kundens indkomst
+
+FALDGRUBER:
+
+* Forkert fordeling mellem ordninger

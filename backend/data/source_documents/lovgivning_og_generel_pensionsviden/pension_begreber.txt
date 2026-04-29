@@ -1,25 +1,50 @@
-Vigtige begreber:
+TITEL:
+Pensionsbegreber
 
-Arbejdsevne:
-- Hvor meget du kan arbejde
+KILDER:
 
-Opsparing:
-- Penge til pension
+* Ikke angivet
 
-Afkast:
-- Gevinst fra investering
+BESKRIVELSE:
+Centrale begreber inden for pension, som bruges til at forstå opsparing, risiko og udbetaling.
 
-Risiko:
-- Sandsynlighed for tab
+REGLER:
 
-ÅOP:
-- Omkostninger ved pension
+* Begreber anvendes på tværs af pensionsordninger
 
-Udbetaling:
-- Månedligt beløb
+BETINGELSER:
 
-Folkepension:
-- Offentlig pension
+* Afhænger af kontekst (opsparing, investering, udbetaling)
 
-Arbejdsmarkedspension:
-- Pension via arbejde
+UDBETALING / FUNKTION:
+
+* Ikke direkte relevant
+
+SKAT:
+
+* Afhænger af begreb (fx afkast → PAL-skat)
+
+FORDELE:
+
+* Giver bedre forståelse for pensionsvalg
+
+ULEMPER:
+
+* Kan være komplekst for kunder
+
+RÅDGIVNING:
+
+* Forklar begreber simpelt til kunder
+* Fokusér på praktisk betydning fremfor teori
+
+FALDGRUBER:
+
+* Misforståelse af risiko og afkast
+* Manglende forståelse af ÅOP
+
+EKSTRA:
+
+* Arbejdsevne: evne til at arbejde
+* Afkast: gevinst på investering
+* ÅOP: samlede årlige omkostninger
+ 

@@ -1,16 +1,45 @@
-Førtidspension:
-- Gives ved varigt nedsat arbejdsevne
-- Kræver vurdering fra kommunen
+TITEL:
+Pensionsregler (offentlige ordninger)
 
-Seniorpension:
-- Arbejdsevne ≤ 15 timer/uge
-- 20-25 års tilknytning til arbejdsmarkedet
-- Max 6 år til folkepension
+KILDER:
 
-Tidlig pension:
-- Kan gives op til 3 år før folkepension
-- Kræver mange år på arbejdsmarkedet
+* Ikke angivet
 
-Generelt:
-- Man skal ofte stoppe med at arbejde for at få fuld pension
-- Regler afhænger af individuel situation
+BESKRIVELSE:
+Overblik over regler for førtidspension, seniorpension og tidlig pension.
+
+REGLER:
+
+* Førtidspension: varigt nedsat arbejdsevne
+* Seniorpension: begrænset arbejdsevne + tæt på pension
+* Tidlig pension: mange år på arbejdsmarkedet
+
+BETINGELSER:
+
+* Individuel vurdering (helbred, alder, arbejdshistorik)
+
+UDBETALING / FUNKTION:
+
+* Månedlig offentlig ydelse
+
+SKAT:
+
+* Beskattes som indkomst
+
+FORDELE:
+
+* Økonomisk sikkerhed ved nedsat arbejdsevne
+
+ULEMPER:
+
+* Strenge krav
+* Begrænset fleksibilitet
+
+RÅDGIVNING:
+
+* Vælg ordning ud fra situation
+* Dokumentation er afgørende
+
+FALDGRUBER:
+
+* Forkert forventning til godkendelse

@@ -1,18 +1,43 @@
-Kilder:
-- https://www.pensam.dk/pension/pension-i-pensam/skat/lp_lofter
+TITEL:
+Indbetaling og lofter
 
-Indbetalinger og lofter
+KILDER:
 
-Der er årlige grænser for, hvor meget der må indbetales til visse pensionsordninger. Det gælder blandt andet ratepension, aldersopsparing og aldersforsikring.
+* https://www.pensam.dk/pension/pension-i-pensam/skat/lp_lofter
 
-For ratepension gælder der et samlet årligt loft for indbetalinger på tværs af pensionsselskaber og banker. Hvis loftet overskrides, gives der ikke fradrag for det beløb, der er indbetalt for meget.
+BESKRIVELSE:
+Der er grænser for hvor meget man må indbetale til pension.
 
-For aldersopsparing og aldersforsikring gælder der også et årligt loft. Loftet afhænger blandt andet af, hvor mange år der er til folkepensionsalderen, og om udbetaling af pension allerede er påbegyndt.
+REGLER:
 
-Hvis der indbetales for meget til aldersopsparing eller aldersforsikring, kan der blive pålagt en særlig afgift. I nogle tilfælde kan afgiften reduceres, hvis det overskydende beløb flyttes til en anden fradragsberettiget pensionsordning.
+* Ratepension og aldersopsparing har loft
+* Gælder samlet på tværs
 
-Hvis en kunde indbetaler til pension flere steder, for eksempel efter jobskifte eller via privat pension, kan der være risiko for at overskride de samlede indbetalingslofter.
+BETINGELSER:
 
-Ved for høj indbetaling bør kunden kontakte det relevante pensionsselskab eller bank, så indbetalingen eventuelt kan korrigeres.
+* Afhænger af pensionsordning
 
-Hvilke regler der gælder, afhænger af pensionsordningen, indbetalingsformen og kundens konkrete situation.
+UDBETALING / FUNKTION:
+
+* Overskridelse → ingen fradrag eller afgift
+
+SKAT:
+
+* Afgift ved overskridelse
+
+FORDELE:
+
+* Sikrer fair skattefordel
+
+ULEMPER:
+
+* Begrænser opsparing
+
+RÅDGIVNING:
+
+* Hold overblik over samlede indbetalinger
+* Koordiner ved jobskifte
+
+FALDGRUBER:
+
+* Indbetale flere steder → overskride loft

@@ -1,16 +1,46 @@
-Kilder:
-- https://www.pensam.dk/forsikring
-
+TITEL:
 Forsikringer i pension
 
-En pensionsordning kan indeholde mere end opsparing. Den kan også indeholde forsikringsdækninger, som skal give økonomisk tryghed ved særlige livssituationer.
+KILDER:
 
-Det kan for eksempel være dækning ved dødsfald, hvor efterladte kan have ret til en udbetaling. I nogle tilfælde kan der også være ret til ægtefælle- eller samleverpension.
+* https://www.pensam.dk/forsikring
 
-Hvilke forsikringer der er knyttet til pensionsordningen, afhænger af den konkrete ordning, kundens alder og om der fortsat indbetales til pensionen.
+BESKRIVELSE:
+Pensionsordninger indeholder ofte forsikringer, der giver økonomisk tryghed ved sygdom, invaliditet eller død.
 
-Nogle forsikringsdækninger bortfalder, hvis der ikke længere indbetales til pensionsordningen.
+REGLER:
 
-Forsikringer i pension skal derfor ses som en del af den samlede økonomiske tryghed og ikke kun som en opsparing til alderdommen.
+* Afhænger af pensionsordning
+* Kan bortfalde ved stop af indbetaling
 
-Ved spørgsmål om konkrete dækninger bør kundens egen pensionsordning og oplysninger altid kontrolleres.
+BETINGELSER:
+
+* Aktiv pensionsordning
+* Afhænger af alder og arbejde
+
+UDBETALING / FUNKTION:
+
+* Udbetaling ved sygdom, død eller invaliditet
+
+SKAT:
+
+* Ofte skattefri udbetaling
+
+FORDELE:
+
+* Økonomisk sikkerhed
+* Beskytter familien
+
+ULEMPER:
+
+* Kan bortfalde uden indbetaling
+
+RÅDGIVNING:
+
+* Gennemgå dækninger med kunden
+* Vurder behov ved jobskifte
+
+FALDGRUBER:
+
+* Kunden tror kun pension = opsparing
+* Mister dækning uden at vide det

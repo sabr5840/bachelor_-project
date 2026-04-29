@@ -1,18 +1,48 @@
-Kilder:
-- https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde
-
+TITEL:
 Begunstigelse og efterladte
 
-Ved dødsfald fra en pensionsordning bliver en eventuel udbetaling som udgangspunkt givet til de nærmeste pårørende, hvis der ikke er truffet et andet valg.
+KILDER:
 
-Nærmeste pårørende omfatter typisk ægtefælle, samlever og børn, afhængigt af den konkrete situation og de gældende regler.
+* https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde
 
-Det er muligt selv at bestemme, hvem der skal modtage en eventuel udbetaling fra pensionen. Dette kaldes begunstigelse.
+BESKRIVELSE:
+Begunstigelse bestemmer, hvem der modtager pensionsudbetaling ved dødsfald.
 
-Hvis der ikke er valgt en specifik modtager, vil udbetalingen følge standardreglerne for nærmeste pårørende.
+REGLER:
 
-Valg af modtager kan have stor betydning, især i situationer med samlevende, børn fra tidligere forhold eller andre komplekse familieforhold.
+* Standard: nærmeste pårørende
+* Kan ændres aktivt af kunden
 
-Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte, mens andre ordninger som ratepension eller aldersopsparing kan blive det.
+BETINGELSER:
 
-Udbetaling fra en pensionsordning går som hovedregel uden om dødsboet og følger derfor ikke nødvendigvis bestemmelser i et testamente, medmindre der er truffet et særligt valg.
+* Kræver aktivt valg for afvigelse
+* Afhænger af pensionsordning
+
+UDBETALING / FUNKTION:
+
+* Udbetales direkte til modtager
+* Går uden om dødsboet
+
+SKAT:
+
+* Kan være afgiftspligtigt afhængigt af relation
+
+FORDELE:
+
+* Hurtig udbetaling
+* Fleksibilitet i valg
+
+ULEMPER:
+
+* Kan give uønsket fordeling hvis ikke valgt
+
+RÅDGIVNING:
+
+* Altid gennemgå begunstigelse med kunden
+* Særligt vigtigt ved samliv uden ægteskab
+* Tjek ved livsændringer (skilsmisse, børn)
+
+FALDGRUBER:
+
+* Glemme at opdatere begunstigelse
+* Tro at testamente gælder (det gør det ofte ikke)

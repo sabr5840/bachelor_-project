@@ -1,25 +1,43 @@
-Rådgiveransvar:
+TITEL:
+Rådgiveransvar
 
-Grundlag:
-- Vurderes efter erstatningsregler
+KILDER:
 
-Ansvar:
-- Bestræbelsesansvar (ikke garanti for resultat)
+* Ikke angivet
 
-Krav:
-- Skal handle som "god professionel"
+BESKRIVELSE:
+Rådgivere kan blive erstatningsansvarlige ved fejl i rådgivning.
 
-4 betingelser for erstatning:
-- Ansvarsgrundlag
-- Tab
-- Årsagssammenhæng
-- Påregnelighed
+REGLER:
 
-Vigtigt:
-- Kunden har bevisbyrden
+* Skal handle som god professionel
+* 4 betingelser for ansvar
 
-God skik:
-- Overtrædelse kan føre til ansvar
+BETINGELSER:
 
-Kend din kunde:
-- Rådgivning skal tilpasses kunden
+* Tab, årsagssammenhæng, påregnelighed
+
+UDBETALING / FUNKTION:
+
+* Erstatning ved fejl
+
+SKAT:
+
+* Ikke relevant
+
+FORDELE:
+
+* Beskytter kunden
+
+ULEMPER:
+
+* Risiko for rådgiver
+
+RÅDGIVNING:
+
+* Dokumentér rådgivning
+* Kend kunden
+
+FALDGRUBER:
+
+* Manglende dokumentation

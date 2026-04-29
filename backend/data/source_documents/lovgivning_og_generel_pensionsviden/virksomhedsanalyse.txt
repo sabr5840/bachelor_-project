@@ -1,30 +1,52 @@
+TITEL:
+Virksomhedsanalyse
 
-Virksomhedsanalyse:
+KILDER:
 
-Typer:
-- Produktionsvirksomhed
-- Handelsvirksomhed
-- Servicevirksomhed
+* Ikke angivet
 
-Distributionskæde:
-- Producent → Engros → Detail → Forbruger
+BESKRIVELSE:
+Virksomhedsanalyse bruges til at vurdere en virksomheds situation, styrker, svagheder og fremtidige muligheder.
 
-SWOT-analyse:
+REGLER:
 
-Interne:
-- Styrker
-- Svagheder
+* SWOT anvendes som standard analyseværktøj
 
-Eksterne:
-- Muligheder
-- Trusler
+BETINGELSER:
 
-Vigtigt:
-- Muligheder = noget virksomheden ikke selv styrer
+* Bruges ved strategisk vurdering
 
-Mål:
-- Skal være konkrete og målbare
+UDBETALING / FUNKTION:
 
-Eksempel:
-- Ikke: "bedre service"
-- Men: "reducere ventetid med 20%"
+* Ikke relevant
+
+SKAT:
+
+* Ikke relevant
+
+FORDELE:
+
+* Giver overblik
+* Understøtter beslutninger
+
+ULEMPER:
+
+* Kan være subjektiv
+
+RÅDGIVNING:
+
+* Brug konkrete data
+* Fokusér på handling (ikke kun analyse)
+
+FALDGRUBER:
+
+* For generelle analyser
+* Manglende opfølgning
+
+EKSTRA:
+SWOT:
+
+* Styrker (interne)
+* Svagheder (interne)
+* Muligheder (eksterne)
+* Trusler (eksterne)

@@ -1,27 +1,43 @@
-Rådgivning i salg:
+TITEL:
+Salg og rådgivning
 
-Salgsfaser:
-- Forberedelse
-- Behovsafdækning
-- Præsentation
-- Afslutning
+KILDER:
 
-EFU-modellen:
-- Egenskab
-- Fordel
-- Udbytte
+* Ikke angivet
 
-Vigtigt:
-- Udbytte sælger – ikke egenskaber
+BESKRIVELSE:
+Struktur for rådgivning og salg af finansielle produkter.
 
-Eksempel:
-- Ikke: "Produktet er hurtigt"
-- Men: "Du sparer tid"
+REGLER:
 
-Bevis:
-- Cases
-- Tests
-- Demonstration
+* Må ikke vildlede
+* Skal give korrekt info
 
-Mål:
-- Kunden skal forstå og se værdi
+BETINGELSER:
+
+* Kundens behov i fokus
+
+UDBETALING / FUNKTION:
+
+* Ikke relevant
+
+SKAT:
+
+* Ikke relevant
+
+FORDELE:
+
+* Struktureret rådgivning
+
+ULEMPER:
+
+* Kan blive for salgsorienteret
+
+RÅDGIVNING:
+
+* Fokus på kundens udbytte
+* Brug EFU-modellen
+
+FALDGRUBER:
+
+* Fokus på produkt fremfor kunde

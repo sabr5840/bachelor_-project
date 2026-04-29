@@ -1,18 +1,54 @@
-Pension og arv:
+TITEL:
+Pension og arv
 
-Ægtefæller:
-- Arver hinanden automatisk
+KILDER:
 
-Samlevende:
-- Arver ikke automatisk
-- Kræver begunstigelse
+* Ikke angivet
 
-Begunstigelse:
-- Bestemmer hvem der får pension ved død
+BESKRIVELSE:
+Pension udbetales ved død typisk uden om dødsboet og følger regler om begunstigelse, ikke almindelig arveret.
 
-Fordele ved ægteskab:
-- Skattefordele
-- Arveret
+REGLER:
 
-Ulemper:
-- Økonomisk afhængighed
+* Ægtefæller arver automatisk
+* Samlevende arver ikke automatisk
+* Begunstigelse bestemmer modtager
+
+BETINGELSER:
+
+* Afhænger af pensionsordning
+* Kræver aktivt valg for ændringer
+
+UDBETALING / FUNKTION:
+
+* Udbetales direkte til begunstigede
+* Går uden om testamente (som udgangspunkt)
+
+SKAT:
+
+* Kan være afgiftspligtigt afhængigt af relation
+
+FORDELE:
+
+* Hurtig udbetaling til efterladte
+* Fleksibilitet i valg af modtager
+
+ULEMPER:
+
+* Standardvalg passer ikke altid til kundens situation
+
+RÅDGIVNING:
+
+* Altid gennemgå begunstigelse
+* Særligt vigtigt for samlevende
+* Opdater ved livsændringer (ægteskab, børn, skilsmisse)
+
+FALDGRUBER:
+
+* Tro at testamente styrer pension (det gør det ofte ikke)
+* Glemme at ændre begunstigelse
+
+EKSTRA:
+
+* Ægtefælle: automatisk arveret
+* Samlever: kræver aktiv begunstigelse

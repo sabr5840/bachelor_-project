@@ -1,14 +1,45 @@
-Kilder:
-- https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/ratepension
+TITEL:
+Ratepension
 
-Ratepension er en pensionsordning, hvor opsparingen udbetales over en begrænset periode, typisk mellem 10 og 30 år.
+KILDER:
 
-Formålet med en ratepension er at give en mere fleksibel udbetaling af pensionen, hvor man kan vælge at få en større del af sin opsparing udbetalt i de første år som pensionist.
+* https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/ratepension
 
-Indbetaling til ratepension sker ofte via arbejdsgiver og kan være før skat. Hvis man selv indbetaler ekstra, kan man få fradrag for indbetalingen.
+BESKRIVELSE:
+Ratepension er en pensionsordning, hvor opsparingen udbetales over en periode (typisk 10–30 år).
 
-Der er et loft for, hvor meget der må indbetales årligt til ratepension. Loftet gælder samlet for alle pensionsordninger af denne type, også hvis man indbetaler i flere pensionsselskaber.
+REGLER:
 
-Hvis man dør, før hele opsparingen er udbetalt, vil det resterende beløb blive udbetalt til efterladte.
+* Indbetalingsloft
+* Udbetaling over fast periode
 
-Udbetalingen af ratepension skal starte inden for en vis periode efter pensionsalderen. Hvis udbetalingen ikke startes, kan opsparingen blive omdannet til en livsvarig pension.
+BETINGELSER:
+
+* Opsparing via arbejde eller privat
+
+UDBETALING / FUNKTION:
+
+* Månedlig udbetaling i en periode
+
+SKAT:
+
+* Fradrag ved indbetaling
+* Beskattes ved udbetaling
+
+FORDELE:
+
+* Fleksibel udbetaling
+* Fradrag
+
+ULEMPER:
+
+* Kan løbe tør
+
+RÅDGIVNING:
+
+* Kombinér med livrente
+* Planlæg udbetalingstidspunkt
+
+FALDGRUBER:
+
+* For høj udbetaling → høj skat

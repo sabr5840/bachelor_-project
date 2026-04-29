@@ -1,0 +1,51 @@
+TITEL:
+Beslutningsregler for pensionsrådgivning
+
+KILDER:
+- Ikke angivet
+
+BESKRIVELSE:
+Disse regler bruges til at vælge den mest relevante pensionsløsning baseret på kundens situation.
+
+REGLER:
+- Hvis kunden betaler topskat, bør ratepension overvejes, fordi der kan være fradrag ved indbetaling.
+- Hvis kunden ikke betaler topskat, kan aldersopsparing overvejes.
+- Hvis kunden vil undgå modregning i folkepension, bør aldersopsparing overvejes.
+- Hvis kunden ønsker livslang indkomst, bør livrente overvejes.
+- Hvis kunden ønsker fleksibel udbetaling, bør ratepension eller aldersopsparing overvejes.
+- Hvis kunden har kort tid til pension, bør risikoen typisk være lavere.
+- Hvis kunden har lang tid til pension, kan højere investeringsrisiko være relevant.
+- Hvis kunden har dårligt helbred eller nedsat arbejdsevne, bør førtidspension eller seniorpension undersøges.
+- Hvis kunden ønsker arv til efterladte, bør ren livrente ikke stå alene.
+
+BETINGELSER:
+- Reglerne kræver kendskab til kundens alder, indkomst, helbred, arbejdssituation, opsparing, risikovillighed og mål.
+- Konkrete anbefalinger kræver individuel vurdering.
+
+UDBETALING / FUNKTION:
+- Bruges som beslutningsstøtte i AI-rådgivning.
+- Hjælper AI’en med at vælge relevante pensionsmuligheder ud fra kundens situation.
+
+SKAT:
+- Ratepension og livrente beskattes typisk ved udbetaling.
+- Aldersopsparing beskattes ved indbetaling og er som udgangspunkt skattefri ved udbetaling.
+
+FORDELE:
+- Gør rådgivningen mere konsistent.
+- Hjælper AI’en med at forklare valg og fravalg.
+- Reducerer risikoen for generiske svar.
+
+ULEMPER:
+- Kan ikke erstatte individuel rådgivning.
+- Reglerne er vejledende og afhænger af kundens konkrete situation.
+
+RÅDGIVNING:
+- Kombinér ofte flere pensionsformer.
+- Ingen løsning passer alle kunder.
+- Stil opklarende spørgsmål før konkrete anbefalinger.
+- Anbefal kontakt til pensionsrådgiver ved komplekse eller individuelle forhold.
+
+FALDGRUBER:
+- At give personlig økonomisk rådgivning uden nok oplysninger.
+- At vælge én pensionsform uden at vurdere kombinationer.
+- At overse skat, modregning, arv eller risiko.

@@ -1,16 +1,46 @@
-Kilder:
-- https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/saadan-fungerer-livsvarig-pension
+TITEL:
+Livrente (livsvarig pension)
 
-Livrente, også kaldet livsvarig pension, er en pensionsordning, hvor udbetalingen sker løbende hver måned resten af livet.
+KILDER:
 
-Formålet med livrente er at sikre en stabil indkomst som pensionist, uanset hvor gammel man bliver. Udbetalingen stopper derfor først ved dødsfald.
+* https://www.pensam.dk/pension/pension-i-pensam/saadan-er-din-pension-sammensat/saadan-fungerer-livsvarig-pension
 
-Størrelsen på den månedlige udbetaling afhænger af, hvor meget der er indbetalt til pensionen, samt hvor længe man forventes at leve.
+BESKRIVELSE:
+Livrente er en pensionsordning, der udbetales løbende resten af livet og sikrer, at man ikke løber tør for pension.
 
-En fordel ved livrente er, at man ikke risikerer at løbe tør for pension. I nogle tilfælde kan man få udbetalt mere, end man selv har indbetalt, hvis man lever længere end gennemsnittet.
+REGLER:
 
-Indbetaling til livrente giver som udgangspunkt fradrag, mens udbetaling beskattes som almindelig indkomst, afhængigt af ordningens type.
+* Udbetales livsvarigt
+* Indbetaling giver typisk fradrag
 
-Opsparing til livrente bliver som udgangspunkt ikke udbetalt til efterladte ved dødsfald. I stedet er efterladte typisk dækket gennem forsikringer i pensionsordningen.
+BETINGELSER:
 
-Hvis man ønsker at sikre udbetaling til efterladte, kan det være relevant at kombinere livrente med andre pensionsordninger som ratepension eller aldersopsparing.
+* Kræver pensionsopsparing
+
+UDBETALING / FUNKTION:
+
+* Månedlig udbetaling resten af livet
+* Stopper ved dødsfald
+
+SKAT:
+
+* Beskattes som personlig indkomst
+
+FORDELE:
+
+* Sikker livslang indkomst
+* Beskytter mod lang levetid
+
+ULEMPER:
+
+* Ingen arv (typisk)
+* Mindre fleksibel
+
+RÅDGIVNING:
+
+* God som grundlag i pension
+* Kombinér med rate/aldersopsparing
+
+FALDGRUBER:
+
+* For stor andel i livrente → lav fleksibilitet

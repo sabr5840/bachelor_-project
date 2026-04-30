@@ -2,6 +2,7 @@ const chatToggle = document.getElementById("chat-toggle");
 const chatWidget = document.getElementById("chat-widget");
 const chatClose = document.getElementById("chat-close");
 const userInput = document.getElementById("user-input");
+let chatHistory = [];
 
 if (chatToggle && chatWidget) {
   chatToggle.addEventListener("click", () => {
@@ -17,13 +18,17 @@ if (chatClose && chatWidget) {
 
 async function sendMessage() {
   const input = document.getElementById("user-input");
-  const chatBox = document.getElementById("chat-box");
 
   const message = input.value.trim();
   if (!message) return;
 
   appendMessage(message, "user");
   input.value = "";
+
+  chatHistory.push({
+    role: "user",
+    content: message
+  });
 
   const loadingElement = appendMessage("Genererer svar...", "bot");
 
@@ -33,7 +38,10 @@ async function sendMessage() {
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({ message: message })
+      body: JSON.stringify({
+        message: message,
+        history: chatHistory.slice(-6)
+      })
     });
 
     if (!response.ok) {
@@ -44,6 +52,12 @@ async function sendMessage() {
 
     loadingElement.remove();
     appendMessage(data.reply, "bot");
+
+    chatHistory.push({
+      role: "assistant",
+      content: data.reply
+    });
+
   } catch (error) {
     loadingElement.remove();
     appendMessage("Der opstod en fejl ved kontakt til backend eller AI.", "bot");

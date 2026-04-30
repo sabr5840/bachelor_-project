@@ -1,15 +1,28 @@
 import os
+from typing import List
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from google import genai
 
 from rag_pipeline import retrieve_top_chunks, build_context
+
 load_dotenv()
 
 app = FastAPI()
+
+from pydantic import BaseModel, Field
+from typing import List
+
+class ChatMessage(BaseModel):
+    role: str
+    content: str
+
+class Message(BaseModel):
+    message: str
+    history: List[ChatMessage] = Field(default_factory=list)
 
 app.add_middleware(
     CORSMiddleware,
@@ -27,11 +40,6 @@ client = genai.Client(api_key=api_key)
 
 # Brug ikke gemini-2.0-flash hos dig, da den giver 404.
 MODEL_NAME = "gemini-2.5-flash"
-
-
-class Message(BaseModel):
-    message: str
-
 
 def classify_question(user_text: str) -> str:
     text = user_text.lower()
@@ -115,6 +123,10 @@ def chat(msg: Message):
     if not user_text:
         raise HTTPException(status_code=400, detail="Beskeden er tom.")
 
+    conversation_history = "\n".join(
+        [f"{m.role}: {m.content}" for m in msg.history[-6:]]
+    )
+    
     try:
         print("User text:", user_text)
 
@@ -141,6 +153,38 @@ def chat(msg: Message):
 
         top_chunks = retrieve_top_chunks(user_text, top_k=top_k)
 
+retrieval_query = f"""
+Tidligere samtale:
+{conversation_history}
+
+ 
+
+Nyeste spørgsmål:
+{user_text}
+"""
+
+ 
+
+if question_type == "simple":
+    top_k = 3
+else:
+    top_k = 5
+
+ 
+
+top_chunks = retrieve_top_chunks(retrieval_query, top_k=top_k)
+
+ 
+
+if not top_chunks:
+    return {
+        "reply": "Det fremgår ikke af mit datagrundlag.",
+        "sources": []
+    }
+
+ 
+
+context = build_context(top_chunks)
         context = build_context(top_chunks)
 
         print("----- RETRIEVED CONTEXT -----")
@@ -166,22 +210,25 @@ Eksempel på godt forbehold:
 """
         elif question_type == "simple":
             extra_instruction = """
-Spørgsmålet er et first-level spørgsmål.
-Du skal give et kort, klart og direkte svar.
-"""
+        Spørgsmålet er et first-level spørgsmål.
+        Du skal give et kort, klart og direkte svar.
+        """
 
         prompt = f"""
-{SYSTEM_PROMPT}
+        {SYSTEM_PROMPT}
 
-Ekstra instruktion:
-{extra_instruction}
+        Ekstra instruktion:
+        {extra_instruction}
 
-Kontekst:
-{context}
+        Kontekst:
+        {context}
 
-Brugerens spørgsmål:
-{user_text}
-"""
+        Tidligere samtale:
+        {conversation_history}
+
+        Brugerens nyeste spørgsmål:
+        {user_text}
+        """
 
         response = client.models.generate_content(
             model=MODEL_NAME,
@@ -207,3 +254,4 @@ Brugerens spørgsmål:
     except Exception as e:
         print("Fejl i RAG-flow:", repr(e))
         raise HTTPException(status_code=500, detail=f"Fejl i RAG-flow: {str(e)}")
+

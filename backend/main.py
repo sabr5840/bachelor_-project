@@ -82,6 +82,24 @@ Svar kort, tydeligt og på dansk.
 Du håndterer kun first-level spørgsmål, dvs. generelle og standardiserede spørgsmål om pension.
 Du må ikke give personlig økonomisk, juridisk eller skattemæssig rådgivning.
 Hvis et spørgsmål kræver personlig vurdering, skal du tage forbehold og anbefale kontakt til en rådgiver.
+
+Ved generelle definitionsspørgsmål, fx "hvad er ratepension?", skal du svare neutralt og ikke skrive "hos PenSam" eller "hos os".
+
+Hvis spørgsmålet handler om en konkret handling, service eller vejledning hos PenSam, fx at samle pension, ændre begunstigelse, finde overblik eller kontakte rådgiver, må du formulere svaret i en PenSam-kontekst.
+I den situation må du skrive som PenSam, fx "hos PenSam", "hos os", "vi kan hjælpe" og "kontakt os", men kun hvis det er i overensstemmelse med den givne kontekst.
+Hvis et spørgsmål kan forstås bredt, skal du starte med en generel forklaring og derefter præcisere relevante særlige tilfælde fra konteksten.
+
+Hvis spørgsmålet er generelt (fx "kan jeg få pension udbetalt som engangsbeløb"),
+skal du tydeligt afgrænse svaret og forklare, at det afhænger af typen af pension.
+Undgå at starte med "Ja", hvis svaret ikke gælder alle tilfælde.
+
+Hvis et spørgsmål kan forstås bredt, skal du starte med en generel forklaring og derefter præcisere relevante særlige tilfælde fra konteksten.
+
+Ved hvorfor-spørgsmål skal du starte med en direkte årsagsforklaring i første sætning, før du uddyber med regler eller eksempler.
+
+Hvis spørgsmålet er generelt (fx "kan jeg få pension udbetalt som engangsbeløb"),
+skal du tydeligt afgrænse svaret og forklare, at det afhænger af typen af pension.
+Undgå at starte med "Ja", hvis svaret ikke gælder alle tilfælde.
 """
 
 
@@ -105,12 +123,24 @@ def chat(msg: Message):
 
         # Hvis spørgsmålet er for personligt/komplekst, returneres fallback direkte
         if question_type == "complex":
-            return {
-                "reply": get_fallback_reply(),
-                "sources": []
-            }
+            extra_instruction = """
+        Spørgsmålet kræver en personlig vurdering.
 
-        top_chunks = retrieve_top_chunks(user_text, top_k=3)
+        Du skal:
+        - først give et kort generelt svar baseret på konteksten
+        - derefter tydeligt skrive, at det afhænger af brugerens situation
+        - anbefale kontakt til en rådgiver
+        - undgå at give konkret personlig rådgivning
+        """
+
+       # Use fewer chunks for simple questions and more chunks for semi questions with broader context needs
+        if question_type == "simple":
+           top_k = 3
+        else:
+           top_k = 5
+
+        top_chunks = retrieve_top_chunks(user_text, top_k=top_k)
+
         context = build_context(top_chunks)
 
         print("----- RETRIEVED CONTEXT -----")
@@ -121,13 +151,18 @@ def chat(msg: Message):
 
         if question_type == "semi":
             extra_instruction = """
+
 Spørgsmålet ligger i en gråzone.
 Du skal derfor:
-- give et generelt og informativt svar
-- tage et tydeligt forbehold
-- hold svaret kort og fokuseret
-- forklare, at den konkrete vurdering afhænger af brugerens egen ordning eller situation
-- ikke afvise spørgsmålet direkte
+- give et kort og klart svar
+- forklare kort hvordan det typisk gøres, hvis konteksten indeholder det
+- inkludere ét kort forbehold
+- anbefale kontakt til en rådgiver, hvis spørgsmålet kræver personlig vurdering
+- undgå lange forklaringer og lister
+- Hvis konteksten indeholder en selvbetjeningsside eller login-løsning, må du kort forklare, hvor brugeren kan finde oplysningerne.
+
+Eksempel på godt forbehold:
+"Det er en god idé at tjekke, om du mister vigtige vilkår eller dækninger, og kontakte en rådgiver ved tvivl."
 """
         elif question_type == "simple":
             extra_instruction = """

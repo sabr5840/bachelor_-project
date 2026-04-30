@@ -1,18 +1,25 @@
 Kilder:
 - https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-privatliv/du-mister-livet/du_mister_livet_kunde
+- https://www.pensam.dk/pension/diverse/begunstigelse---dialogflow
 
 Begunstigelse og efterladte
 
-Ved dødsfald fra en pensionsordning bliver en eventuel udbetaling som udgangspunkt givet til de nærmeste pårørende, hvis der ikke er truffet et andet valg.
+Du kan ændre på, hvem der skal have pengene fra din pension ved dødsfald. Det gør du ved at kontakte os, hvorefter vi kan hjælpe dig videre, fx ved at sende den relevante blanket i e-Boks.
 
-Nærmeste pårørende omfatter typisk ægtefælle, samlever og børn, afhængigt af den konkrete situation og de gældende regler.
+Hvis du ikke selv har valgt en begunstiget, bliver udbetalingen som udgangspunkt givet til dine “nærmeste pårørende”. Rækkefølgen er typisk:
+- ægtefælle
+- samlever (under visse betingelser)
+- livsarvinger (børn, børnebørn osv.)
+- arvinger efter testamente
+- arvinger efter loven
 
-Det er muligt selv at bestemme, hvem der skal modtage en eventuel udbetaling fra pensionen. Dette kaldes begunstigelse.
+Du kan selv vælge, hvem der skal modtage pengene, fx ægtefælle, børn, samlever eller en navngiven person.
 
-Hvis der ikke er valgt en specifik modtager, vil udbetalingen følge standardreglerne for nærmeste pårørende.
+Det er vigtigt løbende at sikre, at din begunstigelse passer til din situation, fx hvis du får børn, bliver skilt eller får ny samlever.
 
-Valg af modtager kan have stor betydning, især i situationer med samlevende, børn fra tidligere forhold eller andre komplekse familieforhold.
+I nogle tilfælde gælder der særlige regler:
+- Livsvarig pension udbetales som udgangspunkt ikke til efterladte
+- Ratepension og visse engangsudbetalinger går til efterladte
+- Testamente har som hovedregel ikke betydning for pensionsudbetalinger
 
-Opsparing til livsvarig pension bliver som udgangspunkt ikke udbetalt til efterladte, mens andre ordninger som ratepension eller aldersopsparing kan blive det.
-
-Udbetaling fra en pensionsordning går som hovedregel uden om dødsboet og følger derfor ikke nødvendigvis bestemmelser i et testamente, medmindre der er truffet et særligt valg.
+Hvis du er i tvivl om, hvem der får udbetaling, eller vil ændre det, bør du kontakte os for rådgivning.

@@ -1,0 +1,46 @@
+Kilder:
+- https://www.borger.dk/pension-og-efterloen/Tidlig-pension
+- https://www.pensam.dk/pension/gaa-paa-pension
+
+Titel:
+Scenarie – Tidlig pension
+
+Kategori:
+Scenarie
+
+Tags:
+tidlig pension, gå tidligere på pension, udbetaling før tid, pension før alder
+
+Kort forklaring i naturligt sprog:
+Tidlig pension betyder, at du starter udbetaling af din pension før folkepensionsalderen. Det kan give mere fleksibilitet, men påvirker din økonomi over tid.
+
+Typisk situation:
+- Du overvejer at stoppe med at arbejde før pensionsalderen
+- Du har pensionsopsparing, du kan begynde at bruge
+- Du ønsker mere fritid eller ændret arbejdsliv
+- Du vil forstå konsekvenserne af at starte tidligt
+
+Hvad betyder det for pensionen:
+- Din pension skal udbetales over flere år
+- Udbetalingen pr. måned kan blive lavere
+- Du får pension i længere tid
+- Samlet økonomi afhænger af dine valg
+
+Hvad skal brugeren være opmærksom på:
+- Tidlig udbetaling påvirker din fremtidige indkomst
+- Skat og indkomst kan ændre sig
+- Offentlige ydelser kan blive påvirket
+- Det er vigtigt at planlægge økonomien på lang sigt
+
+Relevante relaterede emner:
+- pension_udbetaling_overblik.txt
+- skat_udbetaling.txt
+- skat_modregning.txt
+- situation_start_pension.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Regler og udbetalingsmuligheder varierer
+- Effekten afhænger af pensionstype og timing
+- AI bør ikke rådgive om konkrete valg
+

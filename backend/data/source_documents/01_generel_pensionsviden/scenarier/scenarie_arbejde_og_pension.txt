@@ -1,0 +1,46 @@
+Kilder:
+- https://www.borger.dk/pension-og-efterloen/Arbejde-ved-siden-af-pension
+- https://www.aeldresagen.dk/viden-og-raadgivning/vaerd-at-vide/p/pensioner---offentlige/folkepension
+
+Titel:
+Scenarie – Arbejde og pension samtidig
+
+Kategori:
+Scenarie
+
+Tags:
+arbejde og pension, arbejde som pensionist, ekstra indkomst, kombinere arbejde og pension
+
+Kort forklaring i naturligt sprog:
+Det er muligt at arbejde samtidig med, at du får pension. Det kan påvirke din økonomi, fordi både indkomst, skat og offentlige ydelser spiller sammen.
+
+Typisk situation:
+- Du har nået pensionsalderen eller får pension
+- Du ønsker at fortsætte med at arbejde
+- Du har både løn og pensionsudbetaling
+- Du vil forstå hvordan det påvirker din økonomi
+
+Hvad betyder det for pensionen:
+- Du kan modtage pension samtidig med arbejde
+- Pension udbetales uafhængigt af om du arbejder (afhænger af type)
+- Din samlede indkomst bliver højere
+- Flere indtægtskilder påvirker din økonomi samlet
+
+Hvad skal brugeren være opmærksom på:
+- Din samlede indkomst kan påvirke skat
+- Offentlige ydelser kan blive reduceret (modregning)
+- Valg af udbetalingstidspunkt kan have betydning
+- Det er vigtigt at planlægge din økonomi samlet
+
+Relevante relaterede emner:
+- skat_udbetaling.txt
+- skat_modregning.txt
+- pension_udbetaling_overblik.txt
+- situation_start_pension.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Regler og satser kan ændre sig
+- Effekten afhænger af pensionstype og indkomst
+- AI bør ikke beregne konkret økonomi
+

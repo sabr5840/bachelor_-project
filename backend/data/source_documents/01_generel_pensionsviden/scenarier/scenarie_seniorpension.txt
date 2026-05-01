@@ -1,0 +1,46 @@
+Kilder:
+- https://www.borger.dk/pension-og-efterloen/Seniorpension
+- https://www.pensam.dk/pension/gaa-paa-pension
+
+Titel:
+Scenarie – Seniorpension
+
+Kategori:
+Scenarie
+
+Tags:
+seniorpension, tidlig tilbagetrækning, nedsat arbejdsevne, offentlig ydelse
+
+Kort forklaring i naturligt sprog:
+Seniorpension er en offentlig ydelse til personer tæt på pensionsalderen med nedsat arbejdsevne. Det er en overgang til pension, hvor din økonomi ændrer sig fra løn til ydelse.
+
+Typisk situation:
+- Du er tæt på folkepensionsalderen
+- Din arbejdsevne er nedsat
+- Du får tilkendt seniorpension
+- Du vil forstå hvordan det påvirker din økonomi
+
+Hvad betyder det for pensionen:
+- Indbetaling til pension stopper eller reduceres
+- Din opsparing bliver stående uden nye indbetalinger
+- Du kan have mulighed for at starte pension
+- Din økonomi består af offentlig ydelse og evt. pension
+
+Hvad skal brugeren være opmærksom på:
+- Overgangen til pension kræver planlægning
+- Udbetalingstidspunkt for pension har betydning
+- Skat og modregning kan påvirke økonomien
+- Det er vigtigt at se alle indtægter samlet
+
+Relevante relaterede emner:
+- situation_seniorpension.txt
+- skat_modregning.txt
+- skat_udbetaling.txt
+- pension_udbetaling_overblik.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Regler for seniorpension kan ændre sig
+- Udbetaling afhænger af pensionsordning
+- AI bør ikke afgøre konkrete rettigheder
+

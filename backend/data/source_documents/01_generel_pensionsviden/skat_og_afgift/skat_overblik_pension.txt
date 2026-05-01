@@ -1,0 +1,49 @@
+Kilder:
+- https://skat.dk/borger/pension-og-efterloen
+- https://www.borger.dk/oekonomi-skat-su/Skat/Skat-af-pension-og-efterloen
+- https://www.pensam.dk/pension/diverse/lp_skat
+
+Titel:
+Skat af pension (overblik)
+
+Kategori:
+Skat
+
+Tags:
+pension, skat, indbetaling, udbetaling, pensionsafkastskat, overblik
+
+Kort forklaring i naturligt sprog:
+Skat af pension afhænger af, hvornår i forløbet den opstår. Der kan være skat ved indbetaling, under opsparing og ved udbetaling. Forskellige pensionstyper beskattes forskelligt.
+
+Vigtige punkter:
+
+Sektion: Tre typer skat på pension
+- Skat ved indbetaling (fradrag eller ingen fradrag)
+- Skat af afkast under opsparing (pensionsafkastskat / PAL-skat)
+- Skat ved udbetaling (indkomstskat eller skattefri udbetaling)
+
+Sektion: Forskelle mellem pensionstyper
+- Nogle pensioner giver fradrag ved indbetaling
+- Nogle beskattes først ved udbetaling
+- Nogle udbetales skattefrit
+- Alle pensionstyper beskattes normalt af afkast
+
+Sektion: Samlet forståelse
+- Skat på pension skal ses over hele forløbet
+- Fradrag ved indbetaling betyder ofte skat senere
+- Manglende fradrag kan betyde skattefri udbetaling
+- Valg af pensionstype påvirker, hvornår du betaler skat
+
+Sektion: Sammenhæng med økonomi
+- Skat afhænger af din samlede indkomst
+- Pension kan påvirke din økonomi som pensionist
+- Skat er ikke det samme som modregning i offentlige ydelser
+
+Evt. særlige forhold:
+Denne fil er et overblik. Brug specifikke filer ved spørgsmål om pensionsafkastskat, skat ved indbetaling, skat ved udbetaling, modregning eller udland.
+
+Forbehold:
+- Skatteregler ændrer sig løbende
+- Individuelle forhold har stor betydning
+- Den konkrete skat afhænger af pensionstype og indkomst
+- AI bør ikke give bindende skatterådgivning

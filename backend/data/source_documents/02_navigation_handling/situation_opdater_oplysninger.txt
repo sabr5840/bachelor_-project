@@ -1,0 +1,65 @@
+Kilder:
+- https://www.pensam.dk/pension
+- https://www.borger.dk/bolig-og-flytning/Flytning_oversigt
+
+Titel:
+Hvad gør jeg hvis jeg vil opdatere mine oplysninger
+
+Kategori:
+Situation
+
+Tags:
+opdatere oplysninger, ændre oplysninger, kontaktinfo, adresse, pension ændring
+
+Kort forklaring i naturligt sprog:
+Hvis dine oplysninger ændrer sig, er det vigtigt at opdatere dem i din pensionsordning. Det sikrer, at du får korrekt information, og at din pension fungerer som den skal.
+
+Trigger / situation:
+- opdatere oplysninger
+- ændre adresse
+- ændre kontaktinfo
+- ændre personlige oplysninger
+
+Hvad sker der typisk:
+- Dine oplysninger kan være forældede
+- Du kan misse vigtig information
+- Begunstigelse kan være forkert
+- Pensionsordningen afspejler ikke din situation
+
+Hvad skal du gøre:
+- Log ind på din pensionsordning
+- Gennemgå dine oplysninger
+- Opdater relevante ændringer
+- Kontrollér at alt er korrekt
+
+Valgmuligheder:
+- Opdatere kontaktoplysninger
+- Ændre adresse
+- Opdatere begunstigelse
+- Tilpasse pensionsoplysninger
+
+Hvornår du bør kontakte PenSam:
+- Hvis du ikke kan ændre oplysninger selv
+- Hvis du er i tvivl om hvad der skal opdateres
+- Hvis ændringer kræver dokumentation
+- Hvis du har komplekse ændringer
+
+Handling (trin-for-trin):
+1. Log ind på din pensionsordning
+2. Gå til dine personlige oplysninger
+3. Ret de relevante oplysninger
+4. Gem ændringer og kontrollér at de er registreret
+
+Links (start her):
+- https://www.pensam.dk/pension
+- https://www.pensam.dk/login
+
+Evt. særlige forhold:
+Nogle ændringer, fx begunstigelse eller større ændringer, kan kræve ekstra bekræftelse eller dokumentation.
+
+Forbehold:
+- Afhænger af din pensionsordning
+- Ændringer kan have konsekvenser
+- Dækning og rettigheder varierer
+- AI bør ikke afgøre konkrete ændringer
+

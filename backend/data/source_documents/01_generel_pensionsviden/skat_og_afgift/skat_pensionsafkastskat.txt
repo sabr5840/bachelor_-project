@@ -1,0 +1,58 @@
+Kilder:
+- https://skat.dk/borger/pension-og-efterloen/skat-af-pensionsafkast
+- https://www.nordnet.dk/academy/skat-sadan-betaler-du-pal-skat-af-din-pension
+- https://www.pensam.dk/pension/pension-i-pensam/dine-tal
+- https://www.jyskebank.dk/pdf/egub3zzf/ex270-faktaark_pension_skat-af-afkast.pdf
+
+Titel:
+Pensionsafkastskat (PAL-skat)
+
+Kategori:
+Skat
+
+Tags:
+pension, skat, afkast, PAL-skat, investering, pensionsopsparing
+
+Kort forklaring i naturligt sprog:
+Pensionsafkastskat, også kaldet PAL-skat, er skat af det afkast, din pensionsopsparing giver, mens pengene står investeret. Skatten betales løbende og er adskilt fra den skat, du eventuelt betaler ved udbetaling.
+
+Vigtige punkter:
+
+Sektion: Hvad er pensionsafkastskat?
+- Pensionsafkastskat er skat af afkast på pensionsopsparing
+- Kaldes også PAL-skat
+- Gælder for de fleste pensionsordninger
+- Betales løbende, mens pengene er investeret
+
+Sektion: Hvad beskattes?
+- Renter
+- Udbytter
+- Kursgevinster
+- Værdistigninger på investeringer
+- Samlet afkast på pensionsopsparingen
+
+Sektion: Skattesats og betaling
+- Skattesatsen er typisk 15,3 %
+- Skatten beregnes årligt
+- Bank eller pensionsselskab betaler normalt skatten automatisk
+- Skatten trækkes direkte fra pensionsopsparingen
+
+Sektion: Negativt afkast
+- Hvis afkastet er negativt, kan der opstå negativ PAL-skat
+- Det kan modregnes i fremtidige positive afkast
+- Effekten afhænger af pensionsordningen
+
+Sektion: Adskillelse fra anden skat
+- PAL-skat er ikke det samme som skat ved udbetaling
+- PAL-skat betales under opsparingen
+- Skat ved udbetaling betales senere (afhænger af pensionstype)
+- En pension kan både have PAL-skat og skat ved udbetaling
+
+Evt. særlige forhold:
+I særlige tilfælde kan dele af en pensionsopsparing være fritaget for PAL-skat, fx ældre opsparing eller ved særlige udlandsforhold.
+
+Forbehold:
+- Skattesats og regler kan ændre sig
+- Beregning afhænger af investering og ordning
+- Håndtering kan variere mellem pensionsselskaber
+- AI bør ikke beregne konkret skat uden adgang til pensionsoplysninger

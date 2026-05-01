@@ -1,0 +1,46 @@
+Kilder:
+- https://www.borger.dk/pension-og-efterloen/Folkepension-oversigt
+- https://www.aeldresagen.dk/viden-og-raadgivning/vaerd-at-vide/p/pensioner---offentlige/folkepension
+
+Titel:
+Scenarie – Folkepension
+
+Kategori:
+Scenarie
+
+Tags:
+folkepension, offentlig pension, pensionstillæg, grundbeløb
+
+Kort forklaring i naturligt sprog:
+Folkepension er en offentlig ydelse, som mange får ved pensionsalderen. Din private pension og øvrige indkomst kan påvirke, hvor meget du får udbetalt.
+
+Typisk situation:
+- Du nærmer dig eller har nået folkepensionsalderen
+- Du har både offentlig og privat pension
+- Du vil forstå din samlede økonomi som pensionist
+- Du vil vide hvordan pensionerne spiller sammen
+
+Hvad betyder det for pensionen:
+- Folkepension består af grundbeløb og pensionstillæg
+- Din private pension kan påvirke tillægget
+- Du kan have flere indtægtskilder samtidig
+- Samlet indkomst bestemmer din økonomi
+
+Hvad skal brugeren være opmærksom på:
+- Indkomst kan påvirke pensionstillæg (modregning)
+- Skat beregnes ud fra samlet indkomst
+- Kombination af pensioner kræver overblik
+- Det er vigtigt at planlægge udbetaling
+
+Relevante relaterede emner:
+- skat_modregning.txt
+- skat_udbetaling.txt
+- pension_system_danmark.txt
+- situation_start_pension.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Regler og satser kan ændre sig
+- Udbetaling afhænger af samlet indkomst
+- AI bør ikke beregne konkret pension
+

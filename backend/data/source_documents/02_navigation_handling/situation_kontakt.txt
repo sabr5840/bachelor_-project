@@ -1,0 +1,64 @@
+Kilder:
+- https://www.pensam.dk/kontakt
+
+Titel:
+Hvordan kontakter jeg PenSam
+
+Kategori:
+Situation
+
+Tags:
+kontakt, kundeservice, hjælp, ringe, skrive, support
+
+Kort forklaring i naturligt sprog:
+Hvis du har spørgsmål til din pension eller har brug for hjælp, kan du kontakte PenSam. Du kan typisk ringe, skrive eller logge ind for at få personlig hjælp.
+
+Trigger / situation:
+- kontakt
+- kundeservice
+- få hjælp
+- tale med rådgiver
+- ringe til pension
+
+Hvad sker der typisk:
+- Du har spørgsmål om din pension
+- Du mangler overblik eller hjælp
+- Du har en konkret sag
+- Du har brug for personlig rådgivning
+
+Hvad skal du gøre:
+- Find den relevante kontaktmulighed
+- Vælg om du vil ringe, skrive eller logge ind
+- Forbered dine oplysninger
+- Kontakt PenSam
+
+Valgmuligheder:
+- Ringe til kundeservice
+- Skrive via kontaktformular
+- Logge ind og få hjælp
+- Søge svar online først
+
+Hvornår du bør kontakte PenSam:
+- Hvis du har konkrete spørgsmål om din pension
+- Hvis du vil ændre din ordning
+- Hvis du har en sag under behandling
+- Hvis du er i tvivl om dine muligheder
+
+Handling (trin-for-trin):
+1. Gå til PenSams hjemmeside
+2. Vælg “Kontakt” eller log ind
+3. Vælg kontaktform (telefon, besked, selvbetjening)
+4. Beskriv din situation eller stil dit spørgsmål
+
+Links (start her):
+- https://www.pensam.dk/kontakt
+- https://www.pensam.dk/login
+
+Evt. særlige forhold:
+Ventetid og åbningstider kan variere afhængigt af kontaktform. Mange spørgsmål kan også løses via selvbetjening.
+
+Forbehold:
+- Kontaktmuligheder kan ændre sig
+- Åbningstider varierer
+- AI bør ikke erstatte personlig rådgivning
+

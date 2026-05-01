@@ -1,28 +1,32 @@
+Kilder:
+- https://skat.dk/borger/pension-og-efterloen
+- https://www.borger.dk/pension-og-efterloen/Pensionssystemet-i-Danmark/Om-pension
+- https://www.pensionforalle.dk/pension-helt-enkelt/kom-godt-fra-start/de-forskellige-former-pension
 
-LOVGIVNING - MANGLER LINK
+Titel:
+Pensionsbegreber
 
-Vigtige begreber:
+Kort forklaring i naturligt sprog.
+Pension indeholder mange begreber, som beskriver opsparing, skat og udbetaling. Her er korte forklaringer på de mest centrale begreber.
 
-Arbejdsevne:
-- Hvor meget du kan arbejde
+Vigtige punkter:
+- Ratepension: pensionsopsparing der udbetales i rater over en periode
+- Livrente: pensionsopsparing der udbetales resten af livet
+- Aldersopsparing: opsparing uden fradrag, men med skattefri udbetaling
+- PAL-skat: skat på afkast af pensionsopsparing (pensionsafkastskat)
+- Fradrag: mulighed for at betale mindre i skat ved indbetaling
+- Indbetalingsloft: grænse for hvor meget man må indbetale
+- Pensionstillæg: ekstra ydelse til folkepension afhængig af indkomst
+- Modregning: reduktion af offentlige ydelser på grund af indkomst
+- Folkepension: offentlig pension fra staten
+- Førtidspension: pension ved nedsat arbejdsevne
+- Afkast: det økonomiske udbytte af investeringer
+- Genkøb: udbetaling af pension før tid mod afgift
 
-Opsparing:
-- Penge til pension
+Evt. særlige forhold:
+Denne fil er en ordbog. Brug andre filer for detaljerede forklaringer om skat, udbetaling og regler.
 
-Afkast:
-- Gevinst fra investering
-
-Risiko:
-- Sandsynlighed for tab
-
-ÅOP:
-- Omkostninger ved pension
-
-Udbetaling:
-- Månedligt beløb
-
-Folkepension:
-- Offentlig pension
-
-Arbejdsmarkedspension:
-- Pension via arbejde
+Forbehold:
+- Begreber kan have mere detaljerede definitioner i lovgivning
+- Betydning kan variere afhængigt af kontekst
+- AI bør bruge andre filer til konkrete regler og rådgivning

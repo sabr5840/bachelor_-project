@@ -1,0 +1,46 @@
+Kilder:
+- https://www.pensam.dk/pension/investering
+- https://www.nordnet.dk/blog/hvad-er-investering/
+
+Titel:
+Scenarie – Opsparing til pension
+
+Kategori:
+Scenarie
+
+Tags:
+opsparing, pensionsopsparing, indbetaling, afkast, langsigtet opsparing
+
+Kort forklaring i naturligt sprog:
+Pensionsopsparing opbygges over tid gennem indbetalinger og afkast. Hvor meget du får udbetalt som pensionist afhænger af, hvor meget du sparer op, og hvordan pengene udvikler sig.
+
+Typisk situation:
+- Du er i arbejde og indbetaler til pension
+- Du ønsker at forstå hvordan din opsparing vokser
+- Du vil vide hvad der påvirker din fremtidige pension
+- Du planlægger din økonomi på lang sigt
+
+Hvad betyder det for pensionen:
+- Din opsparing vokser gennem indbetalinger
+- Afkast fra investeringer øger opsparingen
+- Tid har stor betydning for det samlede resultat
+- Små ændringer kan få stor effekt over tid
+
+Hvad skal brugeren være opmærksom på:
+- Indbetalingens størrelse påvirker resultatet
+- Afkast kan variere fra år til år
+- Risiko og tid hænger sammen
+- Det er vigtigt at tænke langsigtet
+
+Relevante relaterede emner:
+- investering_afkast.txt
+- pension_indbetaling_overblik.txt
+- pension_risikostyring.txt
+- pension_system_danmark.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Afkast er ikke garanteret
+- Regler kan ændre sig
+- AI bør ikke forudsige fremtidig opsparing
+

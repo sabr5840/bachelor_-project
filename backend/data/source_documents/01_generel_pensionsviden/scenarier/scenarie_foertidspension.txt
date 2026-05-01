@@ -1,0 +1,46 @@
+Kilder:
+- https://www.borger.dk/pension-og-efterloen/Foertidspension
+- https://www.pensam.dk/pension/aendringer-i-dit-liv/aendringer-i-dit-helbred
+
+Titel:
+Scenarie – Førtidspension
+
+Kategori:
+Scenarie
+
+Tags:
+førtidspension, tab af arbejdsevne, offentlig ydelse, pension sygdom
+
+Kort forklaring i naturligt sprog:
+Førtidspension gives, hvis arbejdsevnen er varigt nedsat. Det ændrer din økonomi og kan påvirke både din pensionsopsparing og eventuelle udbetalinger fra forsikringer.
+
+Typisk situation:
+- Du kan ikke længere arbejde på grund af helbred
+- Du får tilkendt førtidspension
+- Din indkomst ændrer sig fra løn til offentlig ydelse
+- Du vil forstå hvordan det påvirker din pension
+
+Hvad betyder det for pensionen:
+- Indbetaling til pension stopper typisk
+- Opsparingen bliver stående og udvikler sig uden nye indbetalinger
+- Nogle pensionsordninger kan give udbetaling ved tab af arbejdsevne
+- Din fremtidige pensionsopsparing kan blive lavere
+
+Hvad skal brugeren være opmærksom på:
+- Din samlede indkomst består af offentlig ydelse og evt. pension
+- Forsikringsdækninger kan være relevante
+- Skat og modregning kan påvirke din økonomi
+- Det er vigtigt at få overblik over alle indtægter
+
+Relevante relaterede emner:
+- situation_foertidspension.txt
+- skat_modregning.txt
+- skat_udbetaling.txt
+- pension_indbetaling_overblik.txt
+
+Forbehold:
+- Individuelle forhold har stor betydning
+- Regler for førtidspension kan ændre sig
+- Dækning afhænger af pensionsordning
+- AI bør ikke afgøre konkrete rettigheder
+
